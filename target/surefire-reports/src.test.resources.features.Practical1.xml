@@ -1,0 +1,11 @@
+<testsuite failures="0" name="src/test/resources/features/Practical1.feature" skipped="0" tests="1" time="0.067913">
+  <testcase classname="src.test.resources.features.Practical1" name="Test Learning" time="0.067913">
+    <system-out>Given def num1 = 15 ....................................................... passed
+Given def num2 = 10 ....................................................... passed
+Then assert num1+num2 == 25 ............................................... passed
+Then assert num1-num2 == 5 ................................................ passed
+Then assert num1/num2 == 1.5 .............................................. passed
+Then assert num1*num2 == 150 .............................................. passed
+Then print num1+num2 ...................................................... passed</system-out>
+  </testcase>
+</testsuite>

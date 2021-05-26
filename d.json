@@ -1,0 +1,5531 @@
+{
+  "payload": [
+    {
+      "productCode": "GEN",
+      "productKey": "GEN~4",
+      "selected": false,
+      "attributes": [
+        {
+          "name": "isBlockedResult",
+          "value": "NO"
+        },
+        {
+          "name": null,
+          "value": "CT|CT_LON|CT_OL|U|Direct|GB|GBP|3_1_1|CMP|[3_1_1]|1_27/03/2021_GEN_-1"
+        }
+      ],
+      "summary": {
+        "availabilityStatus": "AVAILABLE",
+        "productStatus": "BOOKING",
+        "productType": "GEN",
+        "name": "08:00",
+        "highlight": "Day Trips",
+        "primaryAttribute": "Day Trips & Excursions",
+        "serviceStartDate": "2021-03-27",
+        "serviceEndDate": "2021-03-27",
+        "duration": 0,
+        "durationType": "NA",
+        "durationDescription": "5 hours",
+        "travelDates": {
+          "startDate": "2021-03-27",
+          "endDate": "2021-03-27"
+        },
+        "travelDuration": {
+          "duration": 0,
+          "durationType": "NA"
+        },
+        "recommended": false,
+        "specialOffer": false,
+        "totalPrice": 275.11,
+        "discount": 0.00,
+        "priceBeforeDiscount": 275.11,
+        "vipBooking": false
+      },
+      "detail": {
+        "elementGrp": "VT5",
+        "elementGrpName": "Day Trips & Excursions",
+        "freeTextConditions": [],
+        "destination": {
+          "cityCode": "SFO",
+          "cityName": "San Francisco",
+          "countryCode": "US",
+          "countryName": "United States of America",
+          "stateCode": "CA",
+          "stateName": "California"
+        },
+        "additionalInfo": {
+          "nonRefundable": false,
+          "nonAmendable": false,
+          "provisional": false,
+          "preference": 0
+        }
+      },
+      "metaInfo": {
+        "result": {
+          "searchResultIndex": "0:4",
+          "holidayTemplateId": 0,
+          "compositionId": 0,
+          "itineraryItemNo": -1,
+          "cfScore": 0.00,
+          "gridNo": 0,
+          "gridType": 0,
+          "itineraryNo": 0,
+          "itineraryOrder": 0,
+          "holidayId": 0,
+          "pkgId": 0,
+          "resultNo": 4,
+          "swapItemNo": 0,
+          "promo": false,
+          "requestedRegion": "XXX",
+          "optionalItineraryItem": false
+        }
+      },
+      "source": {
+        "supplier": {
+          "id": 122892,
+          "code": "VT86246P3",
+          "name": "5 Hour Private Napa Valley Wine Tour from San Francisco"
+        },
+        "liteSupplier": {
+          "code": "VT86246P3",
+          "name": "5 Hour Private Napa Valley Wine Tour from San Francisco"
+        },
+        "serviceProviders": [
+          {
+            "type": "EXTERNAL_SOURCE_CONTENT",
+            "supplier": {}
+          }
+        ],
+        "internal": {
+          "id": 0
+        },
+        "external": {
+          "id": "3",
+          "ref": "Viator"
+        }
+      },
+      "choices": [
+        {
+          "categoryCode": "DEFAULT~08:00",
+          "categoryName": "08:00",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~08:00~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~08:15",
+          "categoryName": "08:15",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~08:15~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~08:30",
+          "categoryName": "08:30",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~08:30~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~08:45",
+          "categoryName": "08:45",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~08:45~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~09:00",
+          "categoryName": "09:00",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~09:00~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~09:15",
+          "categoryName": "09:15",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~09:15~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~09:30",
+          "categoryName": "09:30",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~09:30~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~09:45",
+          "categoryName": "09:45",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~09:45~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~10:00",
+          "categoryName": "10:00",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~10:00~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~10:15",
+          "categoryName": "10:15",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~10:15~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~10:30",
+          "categoryName": "10:30",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~10:30~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~10:45",
+          "categoryName": "10:45",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~10:45~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~11:00",
+          "categoryName": "11:00",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~11:00~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~11:15",
+          "categoryName": "11:15",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~11:15~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~11:30",
+          "categoryName": "11:30",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~11:30~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~11:45",
+          "categoryName": "11:45",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~11:45~VT15~VT86246P3~86246P3"
+        },
+        {
+          "categoryCode": "DEFAULT~12:00",
+          "categoryName": "12:00",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 275.11,
+            "priceWithTax": 275.11,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~12:00~VT15~VT86246P3~86246P3"
+        }
+      ],
+      "rate": {
+        "discount": 0.00,
+        "price": 275.11,
+        "priceWithTax": 275.11,
+        "tax": 0.00,
+        "commission": 0.00,
+        "commissionPercentage": 0.00,
+        "travellerRateBreakdown": [
+          {
+            "travellerNo": 1,
+            "servicePaxType": "A",
+            "price": 55.02,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 46.80
+          },
+          {
+            "travellerNo": 2,
+            "servicePaxType": "A",
+            "price": 55.02,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 46.80
+          },
+          {
+            "travellerNo": 3,
+            "servicePaxType": "C",
+            "price": 55.02,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 46.81
+          },
+          {
+            "travellerNo": 4,
+            "servicePaxType": "T",
+            "price": 55.02,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 46.80
+          },
+          {
+            "travellerNo": 5,
+            "servicePaxType": "I",
+            "price": 55.02,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 46.81
+          }
+        ],
+        "priceWithoutCommission": 0.00,
+        "itemSuppliemntPrice": 0.00,
+        "amendmentCharge": 0.00,
+        "cancellationCharge": 0.00,
+        "cnxPrice": 0.00,
+        "sellingToBaseExchangeRate": 0.00,
+        "basePrice": 0.00,
+        "manualCommission": false,
+        "itemDiscount": 0.00,
+        "totalItemFeeBase": 0.00,
+        "totalItemFee": 0.00,
+        "totalTaxBase": 0.00,
+        "totalTax": 0.00,
+        "totalNettBookingTax": 0.00
+      },
+      "travellerInfo": {
+        "adult": 2,
+        "child": 2,
+        "infant": 1,
+        "travellers": [
+          {
+            "no": 1,
+            "lead": true,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "BWJHB",
+              "lastName": "TBA",
+              "type": "A",
+              "dobUnknown": true,
+              "age": 30,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 2,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "LVYES",
+              "lastName": "TBA",
+              "type": "A",
+              "dobUnknown": true,
+              "age": 30,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 3,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "TFPVO",
+              "lastName": "TBA",
+              "type": "C",
+              "dobUnknown": true,
+              "age": 10,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 4,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "DQYOR",
+              "lastName": "TBA",
+              "type": "C",
+              "dobUnknown": true,
+              "age": 13,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 5,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "ZIYTY",
+              "lastName": "TBA",
+              "type": "I",
+              "dobUnknown": true,
+              "age": 5,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          }
+        ]
+      },
+      "content": {
+        "description": "",
+        "location": "/tc_images/GEN/",
+        "contentItems": []
+      },
+      "additionalContents": [],
+      "notes": [],
+      "supplements": [],
+      "discounts": [],
+      "supplierInfo": {
+        "supplierId": 122892,
+        "name": "5 Hour Private Napa Valley Wine Tour from San Francisco"
+      },
+      "multiSource": false,
+      "category": {
+        "categoryCode": "DEFAULT~08:00",
+        "categoryName": "08:00",
+        "productTypeCode": "VT15",
+        "productTypeName": "Day Trips",
+        "units": 1,
+        "availStatus": "AVAILABLE",
+        "rate": {
+          "discount": 0.00,
+          "price": 275.11,
+          "priceWithTax": 275.11,
+          "tax": 0.00,
+          "commission": 0.00,
+          "commissionPercentage": 0.00,
+          "priceWithoutCommission": 0.00,
+          "itemSuppliemntPrice": 0.00,
+          "amendmentCharge": 0.00,
+          "cancellationCharge": 0.00,
+          "cnxPrice": 0.00,
+          "sellingToBaseExchangeRate": 0.00,
+          "basePrice": 0.00,
+          "manualCommission": false,
+          "itemDiscount": 0.00,
+          "totalItemFeeBase": 0.00,
+          "totalItemFee": 0.00,
+          "totalTaxBase": 0.00,
+          "totalTax": 0.00,
+          "totalNettBookingTax": 0.00
+        },
+        "discounts": [],
+        "supplements": [],
+        "choiceKey": "GEN~0~DEFAULT~08:00~VT15~VT86246P3~86246P3"
+      },
+      "additionalRequirements": [
+        {
+          "type": "PICK_UP",
+          "subtype": "LIST",
+          "code": "PICK_UP",
+          "mandatory": true,
+          "messageInfo": {
+            "title": "Hotel Pickup",
+            "subTitle": "(e.g. Comfort Inn)",
+            "message": "Select your hotel for pickup."
+          },
+          "possibleValues": [
+            {
+              "code": "local",
+              "title": "I live locally / I'm staying with friends, relatives"
+            },
+            {
+              "code": "notBooked",
+              "title": "My hotel is not yet booked"
+            },
+            {
+              "code": "notListed",
+              "title": "My hotel is not listed"
+            },
+            {
+              "code": "1020063299",
+              "title": "Abigail Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "EAN196360",
+              "title": "Adante Hotel",
+              "description": "SFO"
+            },
+            {
+              "code": "1291689",
+              "title": "Aida Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2015196",
+              "title": "Aldrich Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2214408",
+              "title": "Alexis Park San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1291669",
+              "title": "Alpine Inn & Suites",
+              "description": "Daly City"
+            },
+            {
+              "code": "2641819",
+              "title": "Amazon Motel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119625",
+              "title": "Americania Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1288687",
+              "title": "Americas Best Value Inn & Suites-SOMA",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112320",
+              "title": "Andrews Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1281778",
+              "title": "Archstone South Market",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1268533",
+              "title": "Argonaut Hotel, A Noble House Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "10777045",
+              "title": "Artmar Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "8624213",
+              "title": "Axiom Hotel San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081035",
+              "title": "BEI Hotel San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119626",
+              "title": "Bay Bridge Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1549444",
+              "title": "Beach Motel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112289",
+              "title": "Beck's Motor Lodge",
+              "description": "San Francisco"
+            },
+            {
+              "code": "6964858",
+              "title": "Bel Air Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080808",
+              "title": "Beresford Arms",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2833071",
+              "title": "Best Western Red Coach Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119663",
+              "title": "Biltmore Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081535",
+              "title": "BridgePoint Inn",
+              "description": "Daly City"
+            },
+            {
+              "code": "1119593",
+              "title": "Buena Vista Motor Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "9827516",
+              "title": "Calista Organic Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1291220",
+              "title": "Carl Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080864",
+              "title": "Carriage Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119658",
+              "title": "Castle Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1115644",
+              "title": "Chancellor Hotel on Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119623",
+              "title": "Chelsea Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081246",
+              "title": "City Center Inn & Suites - San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081487",
+              "title": "Civic Center Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080879",
+              "title": "Civic Center Motor Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1268240",
+              "title": "Club Quarters Hotel in San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119657",
+              "title": "Columbus Motor Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080930",
+              "title": "Comfort Inn by the Bay",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2160921",
+              "title": "Commodore Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080937",
+              "title": "Cornell Hotel de France",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1015544933",
+              "title": "Courtyard By Marriott San Francisco Downtown/Van Ness Ave.",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081082",
+              "title": "Courtyard San Francisco Fisherman's Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080817",
+              "title": "Courtyard San Francisco Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2119270",
+              "title": "Cova Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119601",
+              "title": "Coventry Motor Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112293",
+              "title": "Cow Hollow Inn and Suites",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080950",
+              "title": "Days Inn by Wyndham San Francisco - Lombard",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1570865",
+              "title": "Economy Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081782",
+              "title": "Edwardian Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1654032",
+              "title": "Essex Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081531",
+              "title": "Executive Hotel Vintage Court San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2175274",
+              "title": "Fairmont Heritage Place, Ghirardelli Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081397",
+              "title": "Fairmont San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080760",
+              "title": "Foleys Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1224953",
+              "title": "Four Seasons Hotel San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081126",
+              "title": "Four Seasons Hotel San Francisco at Embarcadero",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119650",
+              "title": "Francisco Bay Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080990",
+              "title": "Galleria Park Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1311255",
+              "title": "Geary Parkway Motel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "12795157",
+              "title": "Geneva Motel",
+              "description": "Daly City"
+            },
+            {
+              "code": "1291332",
+              "title": "Glenwood Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080999",
+              "title": "Grand Hyatt San Francisco Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081004",
+              "title": "Grant Plaza Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081480",
+              "title": "Greenwich Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "13541165",
+              "title": "HTL 587, An Ascend Hotel Collection Member",
+              "description": "San Francisco"
+            },
+            {
+              "code": "8148388",
+              "title": "Hampton Inn San Francisco Downtown / Convention Center",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081019",
+              "title": "Handlery Union Square Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081022",
+              "title": "Harbor Court Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1565629",
+              "title": "Harcourt Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1019115775",
+              "title": "Heritage Place, Ghirardelli Square -Residences",
+              "description": "San Francisco"
+            },
+            {
+              "code": "TRIAPI13143",
+              "title": "Hilton San Francisco Financial Dist",
+              "description": "SFO"
+            },
+            {
+              "code": "1081295",
+              "title": "Hilton San Francisco Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1217813",
+              "title": "Holiday Inn Express Hotel & Suites San Francisco Fisherman's Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "9543682",
+              "title": "Holiday Inn Express San Francisco Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081049",
+              "title": "Holiday Inn San Francisco - Golden Gateway",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081042",
+              "title": "Holiday Inn San Francisco-Fishermans Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "11441365",
+              "title": "Hotel 32One",
+              "description": "San Francisco"
+            },
+            {
+              "code": "13920133",
+              "title": "Hotel 964",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081165",
+              "title": "Hotel Abri",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1279426",
+              "title": "Hotel Adagio, Autograph Collection",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080836",
+              "title": "Hotel Beresford",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080920",
+              "title": "Hotel Bijou",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112338",
+              "title": "Hotel Boheme",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080925",
+              "title": "Hotel Carlton",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1019065465",
+              "title": "Hotel Caza",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119643",
+              "title": "Hotel Del Sol, a Joie de Vivre hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112303",
+              "title": "Hotel Diva",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080983",
+              "title": "Hotel Drisco Pacific Heights",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112307",
+              "title": "Hotel Emblem San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1243535",
+              "title": "Hotel Fusion",
+              "description": "San Francisco"
+            },
+            {
+              "code": "7383475",
+              "title": "Hotel G San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1113928",
+              "title": "Hotel Griffon - A Greystone Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1563989",
+              "title": "Hotel Ikon",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1113923",
+              "title": "Hotel Kabuki, a Joie de Vivre hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081416",
+              "title": "Hotel Majestic",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1501344",
+              "title": "Hotel Mayflower",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080793",
+              "title": "Hotel Nikko San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1217294",
+              "title": "Hotel North Beach",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081375",
+              "title": "Hotel Riu Plaza Fisherman’s Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080802",
+              "title": "Hotel Spero",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080774",
+              "title": "Hotel Stratford",
+              "description": "San Francisco"
+            },
+            {
+              "code": "7219524",
+              "title": "Hotel Sunrise",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081514",
+              "title": "Hotel Triton",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1282764",
+              "title": "Hotel Tropica",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081520",
+              "title": "Hotel Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "13379692",
+              "title": "Hotel VIA",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081803",
+              "title": "Hotel Vertigo",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1506418",
+              "title": "Hotel Vitale, a Joie de Vivre hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081241",
+              "title": "Hotel Whitcomb",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080797",
+              "title": "Hotel Zelos San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081222",
+              "title": "Hotel Zephyr San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081215",
+              "title": "Hotel Zeppelin San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112304",
+              "title": "Hotel Zetta San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080780",
+              "title": "Hotel Zoe Fisherman's Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1478253",
+              "title": "Hotel des Arts",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1082105",
+              "title": "Howard Johnson by Wyndham San Francisco Marina District",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1115625",
+              "title": "Huntington Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081087",
+              "title": "Hyatt Centric Fisherman's Wharf San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1015521276",
+              "title": "Hyatt Place San Francisco Downtown",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081103",
+              "title": "Hyatt Regency San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1017649155",
+              "title": "Infinity Hotel San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080753",
+              "title": "Inn On Grove - San Francisco Civic Center",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1256730",
+              "title": "Inn at Golden Gate",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1224956",
+              "title": "Inn at the Opera",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119661",
+              "title": "Inn on Broadway",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081136",
+              "title": "Inn@Market",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1115623",
+              "title": "InterContinental Mark Hopkins San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1676408",
+              "title": "InterContinental San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081444",
+              "title": "JW Marriott San Francisco Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112311",
+              "title": "Jackson Court San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "11696642",
+              "title": "Kailash Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112347",
+              "title": "Kensington Park Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080917",
+              "title": "Kimpton Buchanan",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081377",
+              "title": "Kimpton Sir Francis Drake Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080786",
+              "title": "King George Hotel - A Greystone Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1082114",
+              "title": "La Luna Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081114",
+              "title": "Laurel Inn, a Joie de Vivre hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1224957",
+              "title": "Layne Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081204",
+              "title": "Le Meridien San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1014191630",
+              "title": "Lodge at the Presidio",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119640",
+              "title": "Lombard Motor Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2840699",
+              "title": "Lombard Plaza Motel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1113927",
+              "title": "Marina Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1082116",
+              "title": "Marina Motel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1224958",
+              "title": "Marines Memorial Club Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081237",
+              "title": "Marriott Vacation Club Pulse, San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1016745625",
+              "title": "Metropolis Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1626656",
+              "title": "Minna Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081150",
+              "title": "Mission Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1240893",
+              "title": "Mithila",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080977",
+              "title": "Motel 6 San Francisco Downtown",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119590",
+              "title": "Motel Capri",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2134288",
+              "title": "Music City Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "7511083",
+              "title": "Mylo Hotel",
+              "description": "Daly City"
+            },
+            {
+              "code": "1119637",
+              "title": "Nob Hill Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2160927",
+              "title": "Nob Hill Lambourne",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081177",
+              "title": "Nob Hill Motor Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1224960",
+              "title": "Oakwood At The Aurora",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1268241",
+              "title": "Oakwood Downtown Financial District",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1275488",
+              "title": "Oakwood at 900 Powell",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1595097",
+              "title": "Oakwood at Soma Residences",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081524",
+              "title": "Oasis Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1224948",
+              "title": "Omni San Francisco Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1618542",
+              "title": "Orchard Garden Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1115617",
+              "title": "Palace Hotel, a Luxury Collection Hotel, San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080823",
+              "title": "Palihotel San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081192",
+              "title": "Parc 55 San Francisco - a Hilton Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119636",
+              "title": "Pensione International",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1113940",
+              "title": "Petite Auberge",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081209",
+              "title": "Phoenix Hotel SF",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2800858",
+              "title": "Post Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080987",
+              "title": "Presidio Parkway Inn & Suites",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112360",
+              "title": "Queen Anne Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081249",
+              "title": "Redwood Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081007",
+              "title": "Rodeway Inn & Suites San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081256",
+              "title": "Rodeway Inn Civic Center",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1627267",
+              "title": "Royal Pacific Motor Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081976",
+              "title": "SF Plaza Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1142261",
+              "title": "SOMA Park Inn - Civic Center",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1224951",
+              "title": "SW Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081075",
+              "title": "San Francisco Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081141",
+              "title": "San Francisco Marriott Fisherman's Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081315",
+              "title": "San Francisco Marriott Marquis",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1124765",
+              "title": "San Francisco Marriott Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080799",
+              "title": "San Francisco Proper Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1226829",
+              "title": "SeaScape Inn-A FairBridge Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081367",
+              "title": "Seal Rock Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2160908",
+              "title": "Sheehan Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1014922892",
+              "title": "Signature San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "11207489",
+              "title": "Sonder — The Townsman",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080747",
+              "title": "Stanford Court San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1074059",
+              "title": "Stanyan Park Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081363",
+              "title": "Staypineapple, An Elegant Hotel, Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2201115",
+              "title": "Suiteamerica Avalon Mission Bay",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1247005",
+              "title": "Suites at Fisherman's Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080757",
+              "title": "Super 8 by Wyndham San Francisco/Near the Marina",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080821",
+              "title": "Super 8 by Wyndham San Francisco/Union Square Area",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1291071",
+              "title": "Surf Motel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1571427",
+              "title": "Synergy Avalon Mission Bay",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1571428",
+              "title": "Synergy St Francis Place",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081110",
+              "title": "Taj Campton Place",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1278862",
+              "title": "Taylor Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "9459100",
+              "title": "The Battery",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112325",
+              "title": "The Cartwright Hotel - Union Square, BW Premier Collection",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1223955",
+              "title": "The Clancy, Autograph Collection",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112328",
+              "title": "The Clift Royal Sonesta Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1124967",
+              "title": "The Dakota Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081394",
+              "title": "The Donatello",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080766",
+              "title": "The Embassy Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080768",
+              "title": "The Fitzgerald Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081959",
+              "title": "The Good Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1226834",
+              "title": "The Grant Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080771",
+              "title": "The Herbert Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081409",
+              "title": "The Inn at Union Square - A Greystone Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081985",
+              "title": "The Marker San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1310867",
+              "title": "The Metro Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080788",
+              "title": "The Monarch Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081169",
+              "title": "The Mosser",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081251",
+              "title": "The Opal San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1217844",
+              "title": "The Orchard Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1654030",
+              "title": "The Park Central San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1218776",
+              "title": "The Pickwick Hotel San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "11724093",
+              "title": "The Ritz Carlton Club and Residences",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081450",
+              "title": "The Ritz-Carlton, San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1574449",
+              "title": "The St. Regis San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081461",
+              "title": "The Westin St. Francis San Francisco on Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081466",
+              "title": "The Wharf Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1141997",
+              "title": "Tilden Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1113942",
+              "title": "Touchstone Hotel - City Center",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081476",
+              "title": "Town House Motel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081503",
+              "title": "Travel Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081511",
+              "title": "Travelodge by Wyndham Presidio San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081253",
+              "title": "Travelodge by Wyndham San Francisco Bay",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2223830",
+              "title": "Travelodge by Wyndham San Francisco Central",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1944406",
+              "title": "Travelodge by Wyndham by Fisherman's Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1603022",
+              "title": "Twin Peaks Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080806",
+              "title": "Union Square Plaza Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1489082",
+              "title": "University Club Of San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1252811",
+              "title": "Van Ness Inn Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1320147",
+              "title": "Vantaggio Suites - Garland",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1674036",
+              "title": "Vantaggio Suites Jefferson Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081526",
+              "title": "Verona",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081529",
+              "title": "Villa Florence",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1015319025",
+              "title": "Virgin Hotels San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081669",
+              "title": "W San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081459",
+              "title": "Warwick San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112373",
+              "title": "White Swan Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "6415035",
+              "title": "Winsor Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "EAN727698",
+              "title": "Yotel San Francisco",
+              "description": "SFO"
+            },
+            {
+              "code": "3236788",
+              "title": "da Vinci Villa",
+              "description": "San Francisco"
+            }
+          ]
+        },
+        {
+          "type": "LANG",
+          "subtype": "LIST",
+          "code": "LANG",
+          "mandatory": true,
+          "messageInfo": {
+            "subTitle": ""
+          },
+          "possibleValues": [
+            {
+              "code": "en/ENGLISH_ONLY",
+              "title": "English"
+            }
+          ]
+        },
+        {
+          "type": "SP_NOTE",
+          "subtype": "TEXT_AREA",
+          "code": "special_note#0",
+          "mandatory": false,
+          "messageInfo": {
+            "title": "Special Requirements",
+            "subTitle": ""
+          }
+        }
+      ]
+    },
+    {
+      "productCode": "GEN",
+      "productKey": "GEN~3",
+      "selected": false,
+      "attributes": [
+        {
+          "name": "isBlockedResult",
+          "value": "NO"
+        },
+        {
+          "name": null,
+          "value": "CT|CT_LON|CT_OL|U|Direct|GB|GBP|3_1_1|CMP|[3_1_1]|1_27/03/2021_GEN_-1"
+        }
+      ],
+      "summary": {
+        "availabilityStatus": "AVAILABLE",
+        "productStatus": "BOOKING",
+        "productType": "GEN",
+        "name": "08:30",
+        "highlight": "Day Trips",
+        "primaryAttribute": "Day Trips & Excursions",
+        "serviceStartDate": "2021-03-27",
+        "serviceEndDate": "2021-03-27",
+        "duration": 0,
+        "durationType": "NA",
+        "durationDescription": "8 hours",
+        "travelDates": {
+          "startDate": "2021-03-27",
+          "endDate": "2021-03-27"
+        },
+        "travelDuration": {
+          "duration": 0,
+          "durationType": "NA"
+        },
+        "recommended": false,
+        "specialOffer": false,
+        "totalPrice": 587.73,
+        "discount": 0.00,
+        "priceBeforeDiscount": 587.73,
+        "vipBooking": false
+      },
+      "detail": {
+        "elementGrp": "VT5",
+        "elementGrpName": "Day Trips & Excursions",
+        "freeTextConditions": [],
+        "destination": {
+          "cityCode": "SFO",
+          "cityName": "San Francisco",
+          "countryCode": "US",
+          "countryName": "United States of America",
+          "stateCode": "CA",
+          "stateName": "California"
+        },
+        "additionalInfo": {
+          "nonRefundable": false,
+          "nonAmendable": false,
+          "provisional": false,
+          "preference": 0
+        }
+      },
+      "metaInfo": {
+        "result": {
+          "searchResultIndex": "0:3",
+          "holidayTemplateId": 0,
+          "compositionId": 0,
+          "itineraryItemNo": -1,
+          "cfScore": 0.00,
+          "gridNo": 0,
+          "gridType": 0,
+          "itineraryNo": 0,
+          "itineraryOrder": 0,
+          "holidayId": 0,
+          "pkgId": 0,
+          "resultNo": 3,
+          "swapItemNo": 0,
+          "promo": false,
+          "requestedRegion": "XXX",
+          "optionalItineraryItem": false
+        }
+      },
+      "source": {
+        "supplier": {
+          "id": 122777,
+          "code": "VT7262P8",
+          "name": "8-Hours Private SUV (up to 6 Passengers) San Francisco to Napa Valley Wine Tour"
+        },
+        "liteSupplier": {
+          "code": "VT7262P8",
+          "name": "8-Hours Private SUV (up to 6 Passengers) San Francisco to Napa Valley Wine Tour"
+        },
+        "serviceProviders": [
+          {
+            "type": "EXTERNAL_SOURCE_CONTENT",
+            "supplier": {}
+          }
+        ],
+        "internal": {
+          "id": 0
+        },
+        "external": {
+          "id": "3",
+          "ref": "Viator"
+        }
+      },
+      "choices": [
+        {
+          "categoryCode": "DEFAULT~08:30",
+          "categoryName": "08:30",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 587.73,
+            "priceWithTax": 587.73,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~08:30~VT15~VT7262P8~7262P8"
+        },
+        {
+          "categoryCode": "DEFAULT~09:00",
+          "categoryName": "09:00",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 587.73,
+            "priceWithTax": 587.73,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~09:00~VT15~VT7262P8~7262P8"
+        },
+        {
+          "categoryCode": "DEFAULT~09:30",
+          "categoryName": "09:30",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 587.73,
+            "priceWithTax": 587.73,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~09:30~VT15~VT7262P8~7262P8"
+        },
+        {
+          "categoryCode": "DEFAULT~10:00",
+          "categoryName": "10:00",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 587.73,
+            "priceWithTax": 587.73,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~10:00~VT15~VT7262P8~7262P8"
+        },
+        {
+          "categoryCode": "DEFAULT~10:30",
+          "categoryName": "10:30",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 587.73,
+            "priceWithTax": 587.73,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~10:30~VT15~VT7262P8~7262P8"
+        },
+        {
+          "categoryCode": "DEFAULT~11:00",
+          "categoryName": "11:00",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 587.73,
+            "priceWithTax": 587.73,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~11:00~VT15~VT7262P8~7262P8"
+        },
+        {
+          "categoryCode": "DEFAULT~11:30",
+          "categoryName": "11:30",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 587.73,
+            "priceWithTax": 587.73,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~11:30~VT15~VT7262P8~7262P8"
+        },
+        {
+          "categoryCode": "DEFAULT~12:00",
+          "categoryName": "12:00",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 587.73,
+            "priceWithTax": 587.73,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~12:00~VT15~VT7262P8~7262P8"
+        },
+        {
+          "categoryCode": "DEFAULT~12:30",
+          "categoryName": "12:30",
+          "productTypeCode": "VT15",
+          "productTypeName": "Day Trips",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 587.73,
+            "priceWithTax": 587.73,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~DEFAULT~12:30~VT15~VT7262P8~7262P8"
+        }
+      ],
+      "rate": {
+        "discount": 0.00,
+        "price": 587.73,
+        "priceWithTax": 587.73,
+        "tax": 0.00,
+        "commission": 0.00,
+        "commissionPercentage": 0.00,
+        "travellerRateBreakdown": [
+          {
+            "travellerNo": 1,
+            "servicePaxType": "A",
+            "price": 117.55,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 99.99
+          },
+          {
+            "travellerNo": 2,
+            "servicePaxType": "A",
+            "price": 117.55,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 99.99
+          },
+          {
+            "travellerNo": 3,
+            "servicePaxType": "C",
+            "price": 117.55,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 99.99
+          },
+          {
+            "travellerNo": 4,
+            "servicePaxType": "T",
+            "price": 117.55,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 99.99
+          },
+          {
+            "travellerNo": 5,
+            "servicePaxType": "I",
+            "price": 117.55,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 99.99
+          }
+        ],
+        "priceWithoutCommission": 0.00,
+        "itemSuppliemntPrice": 0.00,
+        "amendmentCharge": 0.00,
+        "cancellationCharge": 0.00,
+        "cnxPrice": 0.00,
+        "sellingToBaseExchangeRate": 0.00,
+        "basePrice": 0.00,
+        "manualCommission": false,
+        "itemDiscount": 0.00,
+        "totalItemFeeBase": 0.00,
+        "totalItemFee": 0.00,
+        "totalTaxBase": 0.00,
+        "totalTax": 0.00,
+        "totalNettBookingTax": 0.00
+      },
+      "travellerInfo": {
+        "adult": 2,
+        "child": 2,
+        "infant": 1,
+        "travellers": [
+          {
+            "no": 1,
+            "lead": true,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "VLCDE",
+              "lastName": "TBA",
+              "type": "A",
+              "dobUnknown": true,
+              "age": 30,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 2,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "XLHKH",
+              "lastName": "TBA",
+              "type": "A",
+              "dobUnknown": true,
+              "age": 30,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 3,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "PRNMM",
+              "lastName": "TBA",
+              "type": "C",
+              "dobUnknown": true,
+              "age": 10,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 4,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "XWCOQ",
+              "lastName": "TBA",
+              "type": "C",
+              "dobUnknown": true,
+              "age": 13,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 5,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "IGJWX",
+              "lastName": "TBA",
+              "type": "I",
+              "dobUnknown": true,
+              "age": 5,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          }
+        ]
+      },
+      "content": {
+        "description": "",
+        "location": "/tc_images/GEN/",
+        "contentItems": []
+      },
+      "additionalContents": [],
+      "notes": [],
+      "supplements": [],
+      "discounts": [],
+      "supplierInfo": {
+        "supplierId": 122777,
+        "name": "8-Hours Private SUV (up to 6 Passengers) San Francisco to Napa Valley Wine Tour"
+      },
+      "multiSource": false,
+      "category": {
+        "categoryCode": "DEFAULT~08:30",
+        "categoryName": "08:30",
+        "productTypeCode": "VT15",
+        "productTypeName": "Day Trips",
+        "units": 1,
+        "availStatus": "AVAILABLE",
+        "rate": {
+          "discount": 0.00,
+          "price": 587.73,
+          "priceWithTax": 587.73,
+          "tax": 0.00,
+          "commission": 0.00,
+          "commissionPercentage": 0.00,
+          "priceWithoutCommission": 0.00,
+          "itemSuppliemntPrice": 0.00,
+          "amendmentCharge": 0.00,
+          "cancellationCharge": 0.00,
+          "cnxPrice": 0.00,
+          "sellingToBaseExchangeRate": 0.00,
+          "basePrice": 0.00,
+          "manualCommission": false,
+          "itemDiscount": 0.00,
+          "totalItemFeeBase": 0.00,
+          "totalItemFee": 0.00,
+          "totalTaxBase": 0.00,
+          "totalTax": 0.00,
+          "totalNettBookingTax": 0.00
+        },
+        "discounts": [],
+        "supplements": [],
+        "choiceKey": "GEN~0~DEFAULT~08:30~VT15~VT7262P8~7262P8"
+      },
+      "additionalRequirements": [
+        {
+          "type": "PICK_UP",
+          "subtype": "LIST",
+          "code": "PICK_UP",
+          "mandatory": true,
+          "messageInfo": {
+            "title": "Hotel Pickup",
+            "subTitle": "(e.g. Comfort Inn)",
+            "message": "Select your hotel for pickup."
+          },
+          "possibleValues": [
+            {
+              "code": "local",
+              "title": "I live locally / I'm staying with friends, relatives"
+            },
+            {
+              "code": "notBooked",
+              "title": "My hotel is not yet booked"
+            },
+            {
+              "code": "notListed",
+              "title": "My hotel is not listed"
+            },
+            {
+              "code": "13497251",
+              "title": "AC Hotel San Francisco Airport/Oyster Point Waterfront",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1080711",
+              "title": "Acqua Hotel Mill Valley",
+              "description": "Mill Valley"
+            },
+            {
+              "code": "EAN196360",
+              "title": "Adante Hotel",
+              "description": "SFO"
+            },
+            {
+              "code": "1291689",
+              "title": "Aida Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1272677",
+              "title": "Airport Inn",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "2015196",
+              "title": "Aldrich Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2214408",
+              "title": "Alexis Park San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2449661",
+              "title": "All Seasons Lodge",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1291669",
+              "title": "Alpine Inn & Suites",
+              "description": "Daly City"
+            },
+            {
+              "code": "2641819",
+              "title": "Amazon Motel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119586",
+              "title": "Americana Inn Motel",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1119625",
+              "title": "Americania Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1247693",
+              "title": "Americas Best Value Inn",
+              "description": "Pacifica"
+            },
+            {
+              "code": "1288687",
+              "title": "Americas Best Value Inn & Suites-SOMA",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081597",
+              "title": "Americas Best Value Inn - San Mateo / San Francisco",
+              "description": "San Mateo"
+            },
+            {
+              "code": "1078720",
+              "title": "Americas Best Value Inn of Novato",
+              "description": "Novato"
+            },
+            {
+              "code": "1112320",
+              "title": "Andrews Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1281778",
+              "title": "Archstone South Market",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1268533",
+              "title": "Argonaut Hotel, A Noble House Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "14377252",
+              "title": "Aristocrat Hotel, BW Signature Collection",
+              "description": "Half Moon Bay"
+            },
+            {
+              "code": "10777045",
+              "title": "Artmar Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080308",
+              "title": "Atherton Park Inn & Suites Redwood City",
+              "description": "Redwood City"
+            },
+            {
+              "code": "8624213",
+              "title": "Axiom Hotel San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081035",
+              "title": "BEI Hotel San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119626",
+              "title": "Bay Bridge Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1487673",
+              "title": "Bay Landing Hotel",
+              "description": "Burlingame"
+            },
+            {
+              "code": "2093502",
+              "title": "Bayhill Inn",
+              "description": "San Bruno"
+            },
+            {
+              "code": "1080807",
+              "title": "Beach House at Half Moon Bay",
+              "description": "Half Moon Bay"
+            },
+            {
+              "code": "1549444",
+              "title": "Beach Motel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112289",
+              "title": "Beck's Motor Lodge",
+              "description": "San Francisco"
+            },
+            {
+              "code": "6964858",
+              "title": "Bel Air Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080808",
+              "title": "Beresford Arms",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1076620",
+              "title": "Best Western Corte Madera Inn",
+              "description": "Corte Madera"
+            },
+            {
+              "code": "1247066",
+              "title": "Best Western Coyote Point Inn",
+              "description": "San Mateo"
+            },
+            {
+              "code": "1235446",
+              "title": "Best Western Inn",
+              "description": "Redwood City"
+            },
+            {
+              "code": "1079528",
+              "title": "Best Western Plus Executive Suites",
+              "description": "Redwood City"
+            },
+            {
+              "code": "1217306",
+              "title": "Best Western Plus Grosvenor Airport Hotel",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1078714",
+              "title": "Best Western Plus Novato Oaks Inn",
+              "description": "Novato"
+            },
+            {
+              "code": "2833071",
+              "title": "Best Western Red Coach Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119663",
+              "title": "Biltmore Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081535",
+              "title": "BridgePoint Inn",
+              "description": "Daly City"
+            },
+            {
+              "code": "1542975",
+              "title": "Budget Inn",
+              "description": "Corte Madera"
+            },
+            {
+              "code": "1273442",
+              "title": "Budget Inn Redwood City",
+              "description": "Redwood City"
+            },
+            {
+              "code": "1081544",
+              "title": "Budget Motel",
+              "description": "San Bruno"
+            },
+            {
+              "code": "1119593",
+              "title": "Buena Vista Motor Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "9827516",
+              "title": "Calista Organic Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1291220",
+              "title": "Carl Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080864",
+              "title": "Carriage Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119658",
+              "title": "Castle Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1115644",
+              "title": "Chancellor Hotel on Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119623",
+              "title": "Chelsea Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081246",
+              "title": "City Center Inn & Suites - San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081487",
+              "title": "Civic Center Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080879",
+              "title": "Civic Center Motor Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1268240",
+              "title": "Club Quarters Hotel in San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080803",
+              "title": "Coastside Inn",
+              "description": "Half Moon Bay"
+            },
+            {
+              "code": "1119657",
+              "title": "Columbus Motor Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080312",
+              "title": "Comfort Inn",
+              "description": "Redwood City"
+            },
+            {
+              "code": "1081632",
+              "title": "Comfort Inn & Suites San Francisco Airport North",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1258668",
+              "title": "Comfort Inn & Suites San Francisco Airport WEST",
+              "description": "San Bruno"
+            },
+            {
+              "code": "1080930",
+              "title": "Comfort Inn by the Bay",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2160921",
+              "title": "Commodore Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080937",
+              "title": "Cornell Hotel de France",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1015544933",
+              "title": "Courtyard By Marriott San Francisco Downtown/Van Ness Ave.",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080465",
+              "title": "Courtyard Novato Marin/Sonoma",
+              "description": "Novato"
+            },
+            {
+              "code": "12638869",
+              "title": "Courtyard Redwood City",
+              "description": "Redwood City"
+            },
+            {
+              "code": "1223970",
+              "title": "Courtyard San Francisco Airport/Oyster Point Waterfront",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1081082",
+              "title": "Courtyard San Francisco Fisherman's Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1077519",
+              "title": "Courtyard San Francisco Larkspur Landing/Marin County",
+              "description": "Larkspur"
+            },
+            {
+              "code": "1080817",
+              "title": "Courtyard San Francisco Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080288",
+              "title": "Courtyard by Marriott San Francisco Airport",
+              "description": "San Bruno"
+            },
+            {
+              "code": "2119270",
+              "title": "Cova Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119601",
+              "title": "Coventry Motor Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112293",
+              "title": "Cow Hollow Inn and Suites",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1267187",
+              "title": "Crowne Plaza San Francisco Airport",
+              "description": "Burlingame"
+            },
+            {
+              "code": "1078718",
+              "title": "Days Inn by Wyndham Novato/San Francisco",
+              "description": "Novato"
+            },
+            {
+              "code": "1079537",
+              "title": "Days Inn by Wyndham Redwood City",
+              "description": "Redwood City"
+            },
+            {
+              "code": "1080950",
+              "title": "Days Inn by Wyndham San Francisco - Lombard",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080943",
+              "title": "Days Inn by Wyndham San Francisco S/Oyster Point Airport",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1272678",
+              "title": "Deluxe Inn",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1664314",
+              "title": "Dog's Inn on the Mesa",
+              "description": "Bolinas"
+            },
+            {
+              "code": "1080949",
+              "title": "DoubleTree by Hilton San Francisco Airport",
+              "description": "Burlingame"
+            },
+            {
+              "code": "1570865",
+              "title": "Economy Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081782",
+              "title": "Edwardian Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1226143",
+              "title": "El Camino Inn",
+              "description": "Daly City"
+            },
+            {
+              "code": "1080940",
+              "title": "Embassy Suites by Hilton Hotel San Francisco Airport (SFO) - Waterfront",
+              "description": "Burlingame"
+            },
+            {
+              "code": "1081770",
+              "title": "Embassy Suites by Hilton Hotel San Rafael - Marin County",
+              "description": "San Rafael"
+            },
+            {
+              "code": "1112296",
+              "title": "Embassy Suites by Hilton San Francisco Airport - South San Francisco",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1654032",
+              "title": "Essex Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081531",
+              "title": "Executive Hotel Vintage Court San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1225934",
+              "title": "Extended Stay America - San Francisco - San Mateo - SFO",
+              "description": "San Mateo"
+            },
+            {
+              "code": "1639469",
+              "title": "Extended Stay America - San Rafael - Francisco Blvd East",
+              "description": "San Rafael"
+            },
+            {
+              "code": "2175274",
+              "title": "Fairmont Heritage Place, Ghirardelli Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081397",
+              "title": "Fairmont San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080760",
+              "title": "Foleys Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1225496",
+              "title": "Four Points By Sheraton San Francisco Airport",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1081776",
+              "title": "Four Points by Sheraton San Rafael Marin County",
+              "description": "San Rafael"
+            },
+            {
+              "code": "1224953",
+              "title": "Four Seasons Hotel San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081126",
+              "title": "Four Seasons Hotel San Francisco at Embarcadero",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119650",
+              "title": "Francisco Bay Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080990",
+              "title": "Galleria Park Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "3303048",
+              "title": "Garden Motel",
+              "description": "Redwood City"
+            },
+            {
+              "code": "1534717",
+              "title": "Gateway Inn and Suites Hotel San Francisco Airport",
+              "description": "San Bruno"
+            },
+            {
+              "code": "1311255",
+              "title": "Geary Parkway Motel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "12795157",
+              "title": "Geneva Motel",
+              "description": "Daly City"
+            },
+            {
+              "code": "1291332",
+              "title": "Glenwood Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1225812",
+              "title": "Good Nite Inn - Redwood City",
+              "description": "Redwood City"
+            },
+            {
+              "code": "1664315",
+              "title": "Grand Hotel Bolinas",
+              "description": "Bolinas"
+            },
+            {
+              "code": "1080999",
+              "title": "Grand Hyatt San Francisco Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081004",
+              "title": "Grant Plaza Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081480",
+              "title": "Greenwich Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "13541165",
+              "title": "HTL 587, An Ascend Hotel Collection Member",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1077147",
+              "title": "Half Moon Bay Lodge",
+              "description": "Half Moon Bay"
+            },
+            {
+              "code": "1258663",
+              "title": "Hampton Inn & Suites San Francisco-Burlingame-Airport South",
+              "description": "Burlingame"
+            },
+            {
+              "code": "1224349",
+              "title": "Hampton Inn San Francisco - Daly City",
+              "description": "Daly City"
+            },
+            {
+              "code": "8148388",
+              "title": "Hampton Inn San Francisco Downtown / Convention Center",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119649",
+              "title": "Hampton Inn San Francisco-Airport",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1081019",
+              "title": "Handlery Union Square Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081022",
+              "title": "Harbor Court Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1266001",
+              "title": "Harbor View Inn",
+              "description": "Half Moon Bay"
+            },
+            {
+              "code": "1565629",
+              "title": "Harcourt Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1019115775",
+              "title": "Heritage Place, Ghirardelli Square -Residences",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1671499",
+              "title": "Hillsdale Inn",
+              "description": "San Mateo"
+            },
+            {
+              "code": "1224514",
+              "title": "Hilton Garden Inn San Francisco Airport / Burlingame",
+              "description": "Burlingame"
+            },
+            {
+              "code": "1081577",
+              "title": "Hilton Garden Inn San Francisco Airport North",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1080116",
+              "title": "Hilton Garden Inn San Mateo",
+              "description": "San Mateo"
+            },
+            {
+              "code": "2523127",
+              "title": "Hilton San Francisco Airport Bayfront",
+              "description": "Burlingame"
+            },
+            {
+              "code": "TRIAPI13143",
+              "title": "Hilton San Francisco Financial Dist",
+              "description": "SFO"
+            },
+            {
+              "code": "1081295",
+              "title": "Hilton San Francisco Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119645",
+              "title": "Holiday Inn Express Hotel & Suites Pacifica",
+              "description": "Pacifica"
+            },
+            {
+              "code": "1217813",
+              "title": "Holiday Inn Express Hotel & Suites San Francisco Fisherman's Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080710",
+              "title": "Holiday Inn Express Mill Valley San Francisco Area",
+              "description": "Mill Valley"
+            },
+            {
+              "code": "1224520",
+              "title": "Holiday Inn Express Redwood City-Central",
+              "description": "Redwood City"
+            },
+            {
+              "code": "1084781",
+              "title": "Holiday Inn Express San Francisco Airport South",
+              "description": "Burlingame"
+            },
+            {
+              "code": "1235393",
+              "title": "Holiday Inn Express San Francisco Airport-North",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "9543682",
+              "title": "Holiday Inn Express San Francisco Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081049",
+              "title": "Holiday Inn San Francisco - Golden Gateway",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1300050",
+              "title": "Holiday Inn San Francisco - Intl Airport",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1081042",
+              "title": "Holiday Inn San Francisco-Fishermans Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080099",
+              "title": "Holiday Inn San Mateo-San Francisco SFO",
+              "description": "San Mateo"
+            },
+            {
+              "code": "1015661758",
+              "title": "Home2 Suites by Hilton San Francisco Airport North",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1225821",
+              "title": "Hotel 1550 SF Airport",
+              "description": "San Bruno"
+            },
+            {
+              "code": "11441365",
+              "title": "Hotel 32One",
+              "description": "San Francisco"
+            },
+            {
+              "code": "13920133",
+              "title": "Hotel 964",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081165",
+              "title": "Hotel Abri",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1279426",
+              "title": "Hotel Adagio, Autograph Collection",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1446896",
+              "title": "Hotel Aura San Bruno",
+              "description": "San Bruno"
+            },
+            {
+              "code": "1080836",
+              "title": "Hotel Beresford",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080920",
+              "title": "Hotel Bijou",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112338",
+              "title": "Hotel Boheme",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080925",
+              "title": "Hotel Carlton",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1019065465",
+              "title": "Hotel Caza",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119643",
+              "title": "Hotel Del Sol, a Joie de Vivre hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112303",
+              "title": "Hotel Diva",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080983",
+              "title": "Hotel Drisco Pacific Heights",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112307",
+              "title": "Hotel Emblem San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081551",
+              "title": "Hotel Focus SFO",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1243535",
+              "title": "Hotel Fusion",
+              "description": "San Francisco"
+            },
+            {
+              "code": "7383475",
+              "title": "Hotel G San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1113928",
+              "title": "Hotel Griffon - A Greystone Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1563989",
+              "title": "Hotel Ikon",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1113923",
+              "title": "Hotel Kabuki, a Joie de Vivre hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081416",
+              "title": "Hotel Majestic",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1501344",
+              "title": "Hotel Mayflower",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080793",
+              "title": "Hotel Nikko San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1217294",
+              "title": "Hotel North Beach",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081626",
+              "title": "Hotel Nova SFO by FairBridge",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1081375",
+              "title": "Hotel Riu Plaza Fisherman’s Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080802",
+              "title": "Hotel Spero",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080774",
+              "title": "Hotel Stratford",
+              "description": "San Francisco"
+            },
+            {
+              "code": "7219524",
+              "title": "Hotel Sunrise",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081514",
+              "title": "Hotel Triton",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1282764",
+              "title": "Hotel Tropica",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081520",
+              "title": "Hotel Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081559",
+              "title": "Hotel V",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "13379692",
+              "title": "Hotel VIA",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081803",
+              "title": "Hotel Vertigo",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1506418",
+              "title": "Hotel Vitale, a Joie de Vivre hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081241",
+              "title": "Hotel Whitcomb",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080797",
+              "title": "Hotel Zelos San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081222",
+              "title": "Hotel Zephyr San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081215",
+              "title": "Hotel Zeppelin San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112304",
+              "title": "Hotel Zetta San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080780",
+              "title": "Hotel Zoe Fisherman's Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1478253",
+              "title": "Hotel des Arts",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1082105",
+              "title": "Howard Johnson by Wyndham San Francisco Marina District",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1115625",
+              "title": "Huntington Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081087",
+              "title": "Hyatt Centric Fisherman's Wharf San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1015521276",
+              "title": "Hyatt Place San Francisco Downtown",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081103",
+              "title": "Hyatt Regency San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080932",
+              "title": "Hyatt Regency San Francisco Airport",
+              "description": "Burlingame"
+            },
+            {
+              "code": "1017649155",
+              "title": "Infinity Hotel San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119589",
+              "title": "Inn By The SFO",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1080462",
+              "title": "Inn Marin & Suites",
+              "description": "Novato"
+            },
+            {
+              "code": "1080753",
+              "title": "Inn On Grove - San Francisco Civic Center",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1256730",
+              "title": "Inn at Golden Gate",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1622515",
+              "title": "Inn at Rockaway",
+              "description": "Pacifica"
+            },
+            {
+              "code": "1224956",
+              "title": "Inn at the Opera",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119661",
+              "title": "Inn on Broadway",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081136",
+              "title": "Inn@Market",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1115623",
+              "title": "InterContinental Mark Hopkins San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1676408",
+              "title": "InterContinental San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081444",
+              "title": "JW Marriott San Francisco Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112311",
+              "title": "Jackson Court San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "11696642",
+              "title": "Kailash Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112347",
+              "title": "Kensington Park Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080917",
+              "title": "Kimpton Buchanan",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081377",
+              "title": "Kimpton Sir Francis Drake Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080786",
+              "title": "King George Hotel - A Greystone Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1082114",
+              "title": "La Luna Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119641",
+              "title": "La Quinta Inn & Suites by Wyndham San Francisco Airport N",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1225497",
+              "title": "Larkspur Landing South San Francisco",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1081114",
+              "title": "Laurel Inn, a Joie de Vivre hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1224957",
+              "title": "Layne Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081204",
+              "title": "Le Meridien San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1014191630",
+              "title": "Lodge at the Presidio",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1119640",
+              "title": "Lombard Motor Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2840699",
+              "title": "Lombard Plaza Motel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080139",
+              "title": "Los Prados Hotel",
+              "description": "San Mateo"
+            },
+            {
+              "code": "1592105",
+              "title": "Marin Lodge",
+              "description": "San Rafael"
+            },
+            {
+              "code": "1076626",
+              "title": "Marin Suites Hotel",
+              "description": "Corte Madera"
+            },
+            {
+              "code": "1113927",
+              "title": "Marina Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1082116",
+              "title": "Marina Motel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1224958",
+              "title": "Marines Memorial Club Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1661098",
+              "title": "Marinwood Inn & Suites",
+              "description": "Novato"
+            },
+            {
+              "code": "1081237",
+              "title": "Marriott Vacation Club Pulse, San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1016745625",
+              "title": "Metropolis Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1626656",
+              "title": "Minna Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080963",
+              "title": "Mirage Inn & Suites",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081150",
+              "title": "Mission Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1240893",
+              "title": "Mithila",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080977",
+              "title": "Motel 6 San Francisco Downtown",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080084",
+              "title": "Motel 6 San Rafael",
+              "description": "San Rafael"
+            },
+            {
+              "code": "1119590",
+              "title": "Motel Capri",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1506382",
+              "title": "Muir Woods Lodge",
+              "description": "Mill Valley"
+            },
+            {
+              "code": "2134288",
+              "title": "Music City Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "7511083",
+              "title": "Mylo Hotel",
+              "description": "Daly City"
+            },
+            {
+              "code": "1119637",
+              "title": "Nob Hill Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2160927",
+              "title": "Nob Hill Lambourne",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081177",
+              "title": "Nob Hill Motor Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1655610",
+              "title": "North Bay San Rafael",
+              "description": "San Rafael"
+            },
+            {
+              "code": "1224960",
+              "title": "Oakwood At The Aurora",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1225813",
+              "title": "Oakwood Bair Island",
+              "description": "Redwood City"
+            },
+            {
+              "code": "1268241",
+              "title": "Oakwood Downtown Financial District",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1275488",
+              "title": "Oakwood at 900 Powell",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1595097",
+              "title": "Oakwood at Soma Residences",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081524",
+              "title": "Oasis Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1291227",
+              "title": "Ocean Park Motel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2026733",
+              "title": "Oceano Hotel & Spa Half Moon Bay",
+              "description": "Half Moon Bay"
+            },
+            {
+              "code": "1073894",
+              "title": "Olema House",
+              "description": "Olema"
+            },
+            {
+              "code": "1224948",
+              "title": "Omni San Francisco Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1618542",
+              "title": "Orchard Garden Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1225814",
+              "title": "Pacific Euro Hotel",
+              "description": "Redwood City"
+            },
+            {
+              "code": "1225815",
+              "title": "Pacific Inn of Redwood City",
+              "description": "Redwood City"
+            },
+            {
+              "code": "1281281",
+              "title": "Pacifica Beach Hotel",
+              "description": "Pacifica"
+            },
+            {
+              "code": "1080411",
+              "title": "Pacifica Lighthouse Hotel, Trademark Collection by Wyndham",
+              "description": "Pacifica"
+            },
+            {
+              "code": "1115617",
+              "title": "Palace Hotel, a Luxury Collection Hotel, San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080823",
+              "title": "Palihotel San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1645241",
+              "title": "Panama Hotel",
+              "description": "San Rafael"
+            },
+            {
+              "code": "1081192",
+              "title": "Parc 55 San Francisco - a Hilton Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1488853",
+              "title": "Park Pointe Hotel",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1119636",
+              "title": "Pensione International",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1113940",
+              "title": "Petite Auberge",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081209",
+              "title": "Phoenix Hotel SF",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2800858",
+              "title": "Post Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080987",
+              "title": "Presidio Parkway Inn & Suites",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1217295",
+              "title": "Pullman San Francisco Bay Hotel",
+              "description": "Redwood City"
+            },
+            {
+              "code": "1119596",
+              "title": "Quality Inn",
+              "description": "Half Moon Bay"
+            },
+            {
+              "code": "1112360",
+              "title": "Queen Anne Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1225499",
+              "title": "Ramada Limited San Francisco Airport North",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1258975",
+              "title": "Ramada by Wyndham San Bruno Sfo Airport",
+              "description": "San Bruno"
+            },
+            {
+              "code": "1119612",
+              "title": "Red Roof PLUS+ San Francisco Airport",
+              "description": "Burlingame"
+            },
+            {
+              "code": "1225811",
+              "title": "Redwood Creek Inn",
+              "description": "Redwood City"
+            },
+            {
+              "code": "1081249",
+              "title": "Redwood Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1272692",
+              "title": "Regency Inn San Francisco Airport",
+              "description": "San Bruno"
+            },
+            {
+              "code": "1223972",
+              "title": "Residence Inn San Francisco Airport/Oyster Point Waterfront",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1081605",
+              "title": "Residence Inn San Francisco Airport/San Mateo",
+              "description": "San Mateo"
+            },
+            {
+              "code": "1534675",
+              "title": "Ritz Inn",
+              "description": "San Bruno"
+            },
+            {
+              "code": "1081007",
+              "title": "Rodeway Inn & Suites San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081256",
+              "title": "Rodeway Inn Civic Center",
+              "description": "San Francisco"
+            },
+            {
+              "code": "5725756",
+              "title": "Royal Inn",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1627267",
+              "title": "Royal Pacific Motor Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081976",
+              "title": "SF Plaza Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1142261",
+              "title": "SOMA Park Inn - Civic Center",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1224951",
+              "title": "SW Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081575",
+              "title": "San Francisco Airport Marriott Waterfront",
+              "description": "Burlingame"
+            },
+            {
+              "code": "1081075",
+              "title": "San Francisco Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081141",
+              "title": "San Francisco Marriott Fisherman's Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081315",
+              "title": "San Francisco Marriott Marquis",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1124765",
+              "title": "San Francisco Marriott Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080799",
+              "title": "San Francisco Proper Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080095",
+              "title": "San Mateo Marriott San Francisco Airport",
+              "description": "San Mateo"
+            },
+            {
+              "code": "1080104",
+              "title": "San Mateo SFO Airport Hotel",
+              "description": "San Mateo"
+            },
+            {
+              "code": "1586531",
+              "title": "Sandpiper Lodging at the Beach",
+              "description": "Stinson Beach"
+            },
+            {
+              "code": "1119630",
+              "title": "Sea Breeze Motel",
+              "description": "Pacifica"
+            },
+            {
+              "code": "1226829",
+              "title": "SeaScape Inn-A FairBridge Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081367",
+              "title": "Seal Rock Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1606005",
+              "title": "Sequoia Inn",
+              "description": "Redwood City"
+            },
+            {
+              "code": "2160908",
+              "title": "Sheehan Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1014922892",
+              "title": "Signature San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1664316",
+              "title": "Smiley's Schooner Saloon and Hotel",
+              "description": "Bolinas"
+            },
+            {
+              "code": "11207489",
+              "title": "Sonder — The Townsman",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1225831",
+              "title": "Sonesta ES Suites San Francisco Airport",
+              "description": "San Bruno"
+            },
+            {
+              "code": "1080747",
+              "title": "Stanford Court San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1074059",
+              "title": "Stanyan Park Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081363",
+              "title": "Staypineapple, An Elegant Hotel, Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1291241",
+              "title": "Stinson Beach Motel",
+              "description": "Stinson Beach"
+            },
+            {
+              "code": "1272676",
+              "title": "Stone Villa Inn San Mateo - San Francisco SFO",
+              "description": "San Mateo"
+            },
+            {
+              "code": "2201115",
+              "title": "Suiteamerica Avalon Mission Bay",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1247005",
+              "title": "Suites at Fisherman's Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1240888",
+              "title": "Super 8 by Wyndham San Bruno /SF Intl Arpt West",
+              "description": "San Bruno"
+            },
+            {
+              "code": "1080757",
+              "title": "Super 8 by Wyndham San Francisco/Near the Marina",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080821",
+              "title": "Super 8 by Wyndham San Francisco/Union Square Area",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1291071",
+              "title": "Surf Motel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1571427",
+              "title": "Synergy Avalon Mission Bay",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1571428",
+              "title": "Synergy St Francis Place",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081110",
+              "title": "Taj Campton Place",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1627564",
+              "title": "Tamalpais Motel",
+              "description": "Mill Valley"
+            },
+            {
+              "code": "1278862",
+              "title": "Taylor Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "9459100",
+              "title": "The Battery",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112325",
+              "title": "The Cartwright Hotel - Union Square, BW Premier Collection",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080108",
+              "title": "The Catrina Hotel",
+              "description": "San Mateo"
+            },
+            {
+              "code": "1223955",
+              "title": "The Clancy, Autograph Collection",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1112328",
+              "title": "The Clift Royal Sonesta Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2533458",
+              "title": "The Cottage at Muir Beach",
+              "description": "Muir Beach"
+            },
+            {
+              "code": "1124967",
+              "title": "The Dakota Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081394",
+              "title": "The Donatello",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080766",
+              "title": "The Embassy Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080768",
+              "title": "The Fitzgerald Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081959",
+              "title": "The Good Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1226834",
+              "title": "The Grant Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080771",
+              "title": "The Herbert Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081409",
+              "title": "The Inn at Union Square - A Greystone Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1082342",
+              "title": "The Lodge at Tiburon",
+              "description": "Tiburon"
+            },
+            {
+              "code": "1081985",
+              "title": "The Marker San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1310867",
+              "title": "The Metro Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080792",
+              "title": "The Miramar Inn & Suites",
+              "description": "Half Moon Bay"
+            },
+            {
+              "code": "1080788",
+              "title": "The Monarch Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081169",
+              "title": "The Mosser",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081251",
+              "title": "The Opal San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1217844",
+              "title": "The Orchard Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1654030",
+              "title": "The Park Central San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1218776",
+              "title": "The Pickwick Hotel San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "11724093",
+              "title": "The Ritz Carlton Club and Residences",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1226144",
+              "title": "The Ritz-Carlton, Half Moon Bay",
+              "description": "Half Moon Bay"
+            },
+            {
+              "code": "1081450",
+              "title": "The Ritz-Carlton, San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1574449",
+              "title": "The St. Regis San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081461",
+              "title": "The Westin St. Francis San Francisco on Union Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081466",
+              "title": "The Wharf Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1141997",
+              "title": "Tilden Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1113942",
+              "title": "Touchstone Hotel - City Center",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081476",
+              "title": "Town House Motel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1250129",
+              "title": "TownePlace Suites Redwood City Redwood Shores",
+              "description": "Redwood City"
+            },
+            {
+              "code": "1081503",
+              "title": "Travel Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1596657",
+              "title": "Travelers Inn",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "2145550",
+              "title": "Travelodge South San Francisco",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1078222",
+              "title": "Travelodge by Wyndham Mill Valley/Sausalito",
+              "description": "Mill Valley"
+            },
+            {
+              "code": "1081511",
+              "title": "Travelodge by Wyndham Presidio San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081553",
+              "title": "Travelodge by Wyndham San Francisco Airport North",
+              "description": "South San Francisco"
+            },
+            {
+              "code": "1081253",
+              "title": "Travelodge by Wyndham San Francisco Bay",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2223830",
+              "title": "Travelodge by Wyndham San Francisco Central",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1642465",
+              "title": "Travelodge by Wyndham San Rafael",
+              "description": "San Rafael"
+            },
+            {
+              "code": "1944406",
+              "title": "Travelodge by Wyndham by Fisherman's Wharf",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1603022",
+              "title": "Twin Peaks Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1080806",
+              "title": "Union Square Plaza Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1489082",
+              "title": "University Club Of San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1084783",
+              "title": "Vagabond Inn Executive SFO Airport",
+              "description": "Burlingame"
+            },
+            {
+              "code": "1252811",
+              "title": "Van Ness Inn Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1320147",
+              "title": "Vantaggio Suites - Garland",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1674036",
+              "title": "Vantaggio Suites Jefferson Square",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081526",
+              "title": "Verona",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081529",
+              "title": "Villa Florence",
+              "description": "San Francisco"
+            },
+            {
+              "code": "2165115",
+              "title": "Villa Montes Hotel, an Ascend Collection Hotel",
+              "description": "San Bruno"
+            },
+            {
+              "code": "1015319025",
+              "title": "Virgin Hotels San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081669",
+              "title": "W San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1081459",
+              "title": "Warwick San Francisco",
+              "description": "San Francisco"
+            },
+            {
+              "code": "1226158",
+              "title": "Waters Edge Hotel",
+              "description": "Tiburon"
+            },
+            {
+              "code": "1112373",
+              "title": "White Swan Inn",
+              "description": "San Francisco"
+            },
+            {
+              "code": "6415035",
+              "title": "Winsor Hotel",
+              "description": "San Francisco"
+            },
+            {
+              "code": "EAN727698",
+              "title": "Yotel San Francisco",
+              "description": "SFO"
+            },
+            {
+              "code": "3236788",
+              "title": "da Vinci Villa",
+              "description": "San Francisco"
+            }
+          ]
+        },
+        {
+          "type": "LANG",
+          "subtype": "LIST",
+          "code": "LANG",
+          "mandatory": true,
+          "messageInfo": {
+            "subTitle": ""
+          },
+          "possibleValues": [
+            {
+              "code": "en/SERVICE_GUIDE",
+              "title": "English - Guide"
+            },
+            {
+              "code": "ru/SERVICE_GUIDE",
+              "title": "Russian - Guide"
+            }
+          ]
+        },
+        {
+          "type": "SP_NOTE",
+          "subtype": "TEXT_AREA",
+          "code": "special_note#0",
+          "mandatory": false,
+          "messageInfo": {
+            "title": "Special Requirements",
+            "subTitle": ""
+          }
+        }
+      ]
+    },
+    {
+      "productCode": "GEN",
+      "productKey": "GEN~2",
+      "selected": false,
+      "attributes": [
+        {
+          "name": "isBlockedResult",
+          "value": "NO"
+        },
+        {
+          "name": null,
+          "value": "CT|CT_LON|CT_OL|U|Direct|GB|GBP|3_1_1|CMP|[3_1_1]|1_27/03/2021_GEN_-1"
+        }
+      ],
+      "summary": {
+        "availabilityStatus": "AVAILABLE",
+        "productStatus": "BOOKING",
+        "productType": "GEN",
+        "name": "Private Tour Option 11:00",
+        "highlight": "Day Trips",
+        "primaryAttribute": "Day Trips & Excursions",
+        "serviceStartDate": "2021-03-27",
+        "serviceEndDate": "2021-03-27",
+        "duration": 0,
+        "durationType": "NA",
+        "durationDescription": "3 hours 30 minutes",
+        "travelDates": {
+          "startDate": "2021-03-27",
+          "endDate": "2021-03-27"
+        },
+        "travelDuration": {
+          "duration": 0,
+          "durationType": "NA"
+        },
+        "recommended": false,
+        "specialOffer": false,
+        "totalPrice": 813.55,
+        "discount": 0.00,
+        "priceBeforeDiscount": 813.55,
+        "vipBooking": false
+      },
+      "detail": {
+        "elementGrp": "VT5",
+        "elementGrpName": "Day Trips & Excursions",
+        "freeTextConditions": [],
+        "destination": {
+          "cityCode": "SFO",
+          "cityName": "San Francisco",
+          "countryCode": "US",
+          "countryName": "United States of America",
+          "stateCode": "CA",
+          "stateName": "California"
+        },
+        "additionalInfo": {
+          "nonRefundable": true,
+          "nonAmendable": false,
+          "provisional": false,
+          "preference": 0
+        }
+      },
+      "metaInfo": {
+        "result": {
+          "searchResultIndex": "0:2",
+          "holidayTemplateId": 0,
+          "compositionId": 0,
+          "itineraryItemNo": -1,
+          "cfScore": 0.00,
+          "gridNo": 0,
+          "gridType": 0,
+          "itineraryNo": 0,
+          "itineraryOrder": 0,
+          "holidayId": 0,
+          "pkgId": 0,
+          "resultNo": 2,
+          "swapItemNo": 0,
+          "promo": false,
+          "requestedRegion": "XXX",
+          "optionalItineraryItem": false
+        }
+      },
+      "source": {
+        "supplier": {
+          "id": 122879,
+          "code": "VT7812P13",
+          "name": "Secret Food Tour of San Francisco's Mission District"
+        },
+        "liteSupplier": {
+          "code": "VT7812P13",
+          "name": "Secret Food Tour of San Francisco's Mission District"
+        },
+        "serviceProviders": [
+          {
+            "type": "EXTERNAL_SOURCE_CONTENT",
+            "supplier": {}
+          }
+        ],
+        "internal": {
+          "id": 0
+        },
+        "external": {
+          "id": "3",
+          "ref": "Viator"
+        }
+      },
+      "rate": {
+        "discount": 0.00,
+        "price": 813.55,
+        "priceWithTax": 813.55,
+        "tax": 0.00,
+        "commission": 0.00,
+        "commissionPercentage": 0.00,
+        "travellerRateBreakdown": [
+          {
+            "travellerNo": 1,
+            "servicePaxType": "A",
+            "price": 162.71,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 138.41
+          },
+          {
+            "travellerNo": 2,
+            "servicePaxType": "A",
+            "price": 162.71,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 138.41
+          },
+          {
+            "travellerNo": 3,
+            "servicePaxType": "C",
+            "price": 162.71,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 138.41
+          },
+          {
+            "travellerNo": 4,
+            "servicePaxType": "T",
+            "price": 162.71,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 138.41
+          },
+          {
+            "travellerNo": 5,
+            "servicePaxType": "I",
+            "price": 162.71,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 138.41
+          }
+        ],
+        "priceWithoutCommission": 0.00,
+        "itemSuppliemntPrice": 0.00,
+        "amendmentCharge": 0.00,
+        "cancellationCharge": 0.00,
+        "cnxPrice": 0.00,
+        "sellingToBaseExchangeRate": 0.00,
+        "basePrice": 0.00,
+        "manualCommission": false,
+        "itemDiscount": 0.00,
+        "totalItemFeeBase": 0.00,
+        "totalItemFee": 0.00,
+        "totalTaxBase": 0.00,
+        "totalTax": 0.00,
+        "totalNettBookingTax": 0.00
+      },
+      "travellerInfo": {
+        "adult": 2,
+        "child": 2,
+        "infant": 1,
+        "travellers": [
+          {
+            "no": 1,
+            "lead": true,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "ESAII",
+              "lastName": "TBA",
+              "type": "A",
+              "dobUnknown": true,
+              "age": 30,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 2,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "XOUDG",
+              "lastName": "TBA",
+              "type": "A",
+              "dobUnknown": true,
+              "age": 30,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 3,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "ACZAI",
+              "lastName": "TBA",
+              "type": "C",
+              "dobUnknown": true,
+              "age": 10,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 4,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "WEVLK",
+              "lastName": "TBA",
+              "type": "C",
+              "dobUnknown": true,
+              "age": 13,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 5,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "GLVTG",
+              "lastName": "TBA",
+              "type": "I",
+              "dobUnknown": true,
+              "age": 5,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          }
+        ]
+      },
+      "content": {
+        "description": "",
+        "location": "/tc_images/GEN/",
+        "contentItems": []
+      },
+      "additionalContents": [],
+      "notes": [],
+      "supplements": [],
+      "discounts": [],
+      "supplierInfo": {
+        "supplierId": 122879,
+        "name": "Secret Food Tour of San Francisco's Mission District"
+      },
+      "multiSource": false,
+      "category": {
+        "categoryCode": "TG2~11:00",
+        "categoryName": "Private Tour Option 11:00",
+        "productTypeCode": "VT15",
+        "productTypeName": "Day Trips",
+        "units": 1,
+        "availStatus": "AVAILABLE",
+        "rate": {
+          "discount": 0.00,
+          "price": 813.55,
+          "priceWithTax": 813.55,
+          "tax": 0.00,
+          "commission": 0.00,
+          "commissionPercentage": 0.00,
+          "priceWithoutCommission": 0.00,
+          "itemSuppliemntPrice": 0.00,
+          "amendmentCharge": 0.00,
+          "cancellationCharge": 0.00,
+          "cnxPrice": 0.00,
+          "sellingToBaseExchangeRate": 0.00,
+          "basePrice": 0.00,
+          "manualCommission": false,
+          "itemDiscount": 0.00,
+          "totalItemFeeBase": 0.00,
+          "totalItemFee": 0.00,
+          "totalTaxBase": 0.00,
+          "totalTax": 0.00,
+          "totalNettBookingTax": 0.00
+        },
+        "discounts": [],
+        "supplements": [],
+        "choiceKey": "GEN~0~TG2~11:00~VT15~VT7812P13~7812P13"
+      },
+      "additionalRequirements": [
+        {
+          "type": "SP_NOTE",
+          "subtype": "TEXT_AREA",
+          "code": "special_note#0",
+          "mandatory": false,
+          "messageInfo": {
+            "title": "Special Requirements",
+            "subTitle": ""
+          }
+        }
+      ]
+    },
+    {
+      "productCode": "GEN",
+      "productKey": "GEN~1",
+      "selected": false,
+      "attributes": [
+        {
+          "name": "isBlockedResult",
+          "value": "NO"
+        },
+        {
+          "name": null,
+          "value": "CT|CT_LON|CT_OL|U|Direct|GB|GBP|3_1_1|CMP|[3_1_1]|1_27/03/2021_GEN_-1"
+        }
+      ],
+      "summary": {
+        "availabilityStatus": "AVAILABLE",
+        "productStatus": "BOOKING",
+        "productType": "GEN",
+        "name": "Private Yosemite National Park Tour From San Francisco",
+        "highlight": "Day Trips",
+        "primaryAttribute": "Day Trips & Excursions",
+        "serviceStartDate": "2021-03-27",
+        "serviceEndDate": "2021-03-27",
+        "duration": 0,
+        "durationType": "NA",
+        "durationDescription": "2 days",
+        "travelDates": {
+          "startDate": "2021-03-27",
+          "endDate": "2021-03-27"
+        },
+        "travelDuration": {
+          "duration": 0,
+          "durationType": "NA"
+        },
+        "recommended": false,
+        "specialOffer": false,
+        "totalPrice": 1666.33,
+        "discount": 0.00,
+        "priceBeforeDiscount": 1666.33,
+        "vipBooking": false
+      },
+      "detail": {
+        "elementGrp": "VT5",
+        "elementGrpName": "Day Trips & Excursions",
+        "freeTextConditions": [],
+        "destination": {
+          "cityCode": "SFO",
+          "cityName": "San Francisco",
+          "countryCode": "US",
+          "countryName": "United States of America",
+          "stateCode": "CA",
+          "stateName": "California"
+        },
+        "additionalInfo": {
+          "nonRefundable": false,
+          "nonAmendable": false,
+          "provisional": false,
+          "preference": 0
+        }
+      },
+      "metaInfo": {
+        "result": {
+          "searchResultIndex": "0:1",
+          "holidayTemplateId": 0,
+          "compositionId": 0,
+          "itineraryItemNo": -1,
+          "cfScore": 0.00,
+          "gridNo": 0,
+          "gridType": 0,
+          "itineraryNo": 0,
+          "itineraryOrder": 0,
+          "holidayId": 0,
+          "pkgId": 0,
+          "resultNo": 1,
+          "swapItemNo": 0,
+          "promo": false,
+          "requestedRegion": "XXX",
+          "optionalItineraryItem": false
+        }
+      },
+      "source": {
+        "supplier": {
+          "id": 122380,
+          "code": "VT27514P8",
+          "name": "Private Yosemite National Park Tour From San Francisco"
+        },
+        "liteSupplier": {
+          "code": "VT27514P8",
+          "name": "Private Yosemite National Park Tour From San Francisco"
+        },
+        "serviceProviders": [
+          {
+            "type": "EXTERNAL_SOURCE_CONTENT",
+            "supplier": {}
+          }
+        ],
+        "internal": {
+          "id": 0
+        },
+        "external": {
+          "id": "3",
+          "ref": "Viator"
+        }
+      },
+      "rate": {
+        "discount": 0.00,
+        "price": 1666.33,
+        "priceWithTax": 1666.33,
+        "tax": 0.00,
+        "commission": 0.00,
+        "commissionPercentage": 0.00,
+        "travellerRateBreakdown": [
+          {
+            "travellerNo": 1,
+            "servicePaxType": "A",
+            "price": 333.27,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 283.50
+          },
+          {
+            "travellerNo": 2,
+            "servicePaxType": "A",
+            "price": 333.27,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 283.50
+          },
+          {
+            "travellerNo": 3,
+            "servicePaxType": "C",
+            "price": 333.27,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 283.50
+          },
+          {
+            "travellerNo": 4,
+            "servicePaxType": "T",
+            "price": 333.27,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 283.50
+          },
+          {
+            "travellerNo": 5,
+            "servicePaxType": "I",
+            "price": 333.27,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 283.50
+          }
+        ],
+        "priceWithoutCommission": 0.00,
+        "itemSuppliemntPrice": 0.00,
+        "amendmentCharge": 0.00,
+        "cancellationCharge": 0.00,
+        "cnxPrice": 0.00,
+        "sellingToBaseExchangeRate": 0.00,
+        "basePrice": 0.00,
+        "manualCommission": false,
+        "itemDiscount": 0.00,
+        "totalItemFeeBase": 0.00,
+        "totalItemFee": 0.00,
+        "totalTaxBase": 0.00,
+        "totalTax": 0.00,
+        "totalNettBookingTax": 0.00
+      },
+      "travellerInfo": {
+        "adult": 2,
+        "child": 2,
+        "infant": 1,
+        "travellers": [
+          {
+            "no": 1,
+            "lead": true,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "AICYZ",
+              "lastName": "TBA",
+              "type": "A",
+              "dobUnknown": true,
+              "age": 30,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 2,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "QCRVD",
+              "lastName": "TBA",
+              "type": "A",
+              "dobUnknown": true,
+              "age": 30,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 3,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "GUREQ",
+              "lastName": "TBA",
+              "type": "C",
+              "dobUnknown": true,
+              "age": 10,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 4,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "OVWGI",
+              "lastName": "TBA",
+              "type": "C",
+              "dobUnknown": true,
+              "age": 13,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 5,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "JNLRD",
+              "lastName": "TBA",
+              "type": "I",
+              "dobUnknown": true,
+              "age": 5,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          }
+        ]
+      },
+      "content": {
+        "description": "",
+        "location": "/tc_images/GEN/",
+        "contentItems": []
+      },
+      "additionalContents": [],
+      "notes": [],
+      "supplements": [],
+      "discounts": [],
+      "supplierInfo": {
+        "supplierId": 122380,
+        "name": "Private Yosemite National Park Tour From San Francisco"
+      },
+      "multiSource": false,
+      "category": {
+        "categoryCode": "DEFAULT",
+        "categoryName": "Private Yosemite National Park Tour From San Francisco",
+        "productTypeCode": "VT15",
+        "productTypeName": "Day Trips",
+        "units": 1,
+        "availStatus": "AVAILABLE",
+        "rate": {
+          "discount": 0.00,
+          "price": 1666.33,
+          "priceWithTax": 1666.33,
+          "tax": 0.00,
+          "commission": 0.00,
+          "commissionPercentage": 0.00,
+          "priceWithoutCommission": 0.00,
+          "itemSuppliemntPrice": 0.00,
+          "amendmentCharge": 0.00,
+          "cancellationCharge": 0.00,
+          "cnxPrice": 0.00,
+          "sellingToBaseExchangeRate": 0.00,
+          "basePrice": 0.00,
+          "manualCommission": false,
+          "itemDiscount": 0.00,
+          "totalItemFeeBase": 0.00,
+          "totalItemFee": 0.00,
+          "totalTaxBase": 0.00,
+          "totalTax": 0.00,
+          "totalNettBookingTax": 0.00
+        },
+        "discounts": [],
+        "supplements": [],
+        "choiceKey": "GEN~0~DEFAULT~VT15~VT27514P8~27514P8"
+      },
+      "additionalRequirements": [
+        {
+          "type": "LANG",
+          "subtype": "LIST",
+          "code": "LANG",
+          "mandatory": true,
+          "messageInfo": {
+            "subTitle": ""
+          },
+          "possibleValues": [
+            {
+              "code": "en/SERVICE_GUIDE",
+              "title": "English - Guide"
+            }
+          ]
+        },
+        {
+          "type": "SP_NOTE",
+          "subtype": "TEXT_AREA",
+          "code": "special_note#0",
+          "mandatory": false,
+          "messageInfo": {
+            "title": "Special Requirements",
+            "subTitle": ""
+          }
+        }
+      ]
+    }
+  ],
+  "version": "v2.0"
+}

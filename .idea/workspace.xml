@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00ebc7fd-531d-474f-8e67-7353a713115f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationCucumber/src/test/java/cucmberOptions/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationCucumber/src/test/java/features/Account.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationCucumber/src/test/java/stepDefinitions/stepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/Paramete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/bin/datddriven/Annotations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/bin/packTwo/Annot2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/bin/packTwo/Annotations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/bin/packTwo/DependenyAnnot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/bin/testngFiles/Annot2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/bin/testngFiles/Annotations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/bin/testngFiles/DependenyAnnot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/bin/testngFiles2/Annot2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/bin/testngFiles2/Annotations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/bin/testngFiles2/DependenyAnnot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/groups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/src/datddriven/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/src/packTwo/Annot2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/src/packTwo/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/src/packTwo/DependenyAnnot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/src/testngFiles/Annot2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/src/testngFiles/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/src/testngFiles/DependenyAnnot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/src/testngFiles2/Annot2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/src/testngFiles2/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/src/testngFiles2/DependenyAnnot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/Automatio Test/Smoke Testcases.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/Automatio Test/Smoke Testcases.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/Automation Test/Smoke Testcases.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/Automation Test/Smoke Testcases.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/Default suite/Default test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/Default suite/Default test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/FRAMEWORK/Build Balidation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/FRAMEWORK/Build Balidation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/junitreports/TEST-datddriven.Annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/junitreports/TEST-packTwo.Annot2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/junitreports/TEST-packTwo.Annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/junitreports/TEST-packTwo.DependenyAnnot.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/junitreports/TEST-testngFiles.Annot2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/junitreports/TEST-testngFiles.Annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/junitreports/TEST-testngFiles.DependenyAnnot.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automatio Test/Smoke Testcases.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automatio Test/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automatio Test/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automatio Test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automatio Test/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automatio Test/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automatio Test/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automatio Test/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automatio Test/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automatio Test/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automatio Test/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automation Test/Smoke Testcases.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automation Test/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automation Test/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automation Test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automation Test/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automation Test/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automation Test/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automation Test/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automation Test/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automation Test/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Automation Test/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Default suite/Default test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Default suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Default suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Default suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Default suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Default suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Default suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Default suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Default suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Default suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/Default suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/FRAMEWORK/Build Balidation.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/FRAMEWORK/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/FRAMEWORK/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/FRAMEWORK/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/FRAMEWORK/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/FRAMEWORK/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/FRAMEWORK/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/FRAMEWORK/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/FRAMEWORK/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/FRAMEWORK/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/FRAMEWORK/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/test-output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Framework/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Livn/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apitesting" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Practical1.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical1.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="c.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/c.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4386">
+              <caret line="258" column="8" selection-start-line="258" selection-start-column="8" selection-end-line="258" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="b.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/b.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="f.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/f.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68731">
+              <caret line="4043" column="1" selection-start-line="4043" selection-start-column="1" selection-end-line="4043" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Practical2.feature" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical2.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestRunner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testRunner/TestRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="karate-config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/karate-config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>robolectric</find>
+      <find>lombok</find>
+      <find>&quot;cmp&quot;: &quot;CT&quot;,</find>
+      <find>productCode</find>
+      <find>key</find>
+      <find>trav</find>
+      <find>travelle</find>
+      <find>&quot;key&quot;:</find>
+      <find>MR#OEYVD#TBA#2</find>
+      <find>choice</find>
+      <find>choicek</find>
+      <find>trave</find>
+      <find>travell</find>
+      <find>travel</find>
+      <find>MR#STSGD#TBA#1</find>
+      <find>additional</find>
+      <find>require</find>
+      <find>country</find>
+      <find>choiceke</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/karate-config.js" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/Practical1.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/testRunner/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/Practical2.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/Practical3.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/Practical4.feature" />
+        <option value="$PROJECT_DIR$/d.json" />
+        <option value="$PROJECT_DIR$/a.json" />
+        <option value="$PROJECT_DIR$/e.json" />
+        <option value="$PROJECT_DIR$/g.json" />
+        <option value="$PROJECT_DIR$/h.json" />
+        <option value="$PROJECT_DIR$/f.json" />
+        <option value="$PROJECT_DIR$/c.json" />
+        <option value="$PROJECT_DIR$/b.json" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="KarateTraining" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="KarateTraining" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-20" />
+    <option name="width" value="958" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KarateTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KarateTraining" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KarateTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KarateTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KarateTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KarateTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KarateTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KarateTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KarateTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KarateTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KarateTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KarateTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testRunner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KarateTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KarateTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KarateTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KarateTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KarateTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KarateTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KarateTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KarateTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="surefire-reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testkarateautomation" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\LearningMe\KarateTraining\src\test\resources\features" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: Practical1">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Feature: Practical1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Practical1.feature" />
+      <option name="GLUE" value="com.intuit.karate" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="KarateTraining" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Practical1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Feature: Practical3" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Practical3.feature" />
+      <option name="GLUE" value="com.intuit.karate" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="KarateTraining" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Practical3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Scenario: " type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Practical3.feature" />
+      <option name="GLUE" value="com.intuit.karate" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="KarateTraining" />
+      <option name="NAME_FILTER" value="^$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Scenario: Testing a POST endpoint with request body" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Practical2.feature" />
+      <option name="GLUE" value="com.intuit.karate" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="KarateTraining" />
+      <option name="NAME_FILTER" value="^Testing a POST endpoint with request body$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Testing a POST endpoint with request body$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Testing a POST endpoint with request body" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KarateTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.TestRunner" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: Practical3" />
+      <item itemvalue="Cucumber java.Scenario: " />
+      <item itemvalue="Cucumber java.Scenario: Testing a POST endpoint with request body" />
+      <item itemvalue="JUnit.TestRunner" />
+      <item itemvalue="Cucumber java.Feature: Practical1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: Practical1" />
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber java.Feature: Practical3" />
+        <item itemvalue="Cucumber java.Scenario: Testing a POST endpoint with request body" />
+        <item itemvalue="Cucumber java.Scenario: " />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00ebc7fd-531d-474f-8e67-7353a713115f" name="Default" comment="" />
+      <created>1611777077109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611777077109</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestRunner - 2021.02.23 at 23h 18m 02s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner - 2021.02.23 at 23h 20m 14s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner - 2021.02.23 at 23h 21m 27s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner - 2021.02.23 at 23h 27m 36s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner - 2021.02.23 at 23h 30m 37s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner - 2021.02.23 at 23h 32m 01s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner - 2021.03.01 at 23h 21m 24s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner - 2021.03.01 at 23h 32m 15s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner - 2021.03.02 at 00h 45m 40s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Feature__Practical1 - 2021.03.13 at 23h 13m 19s.xml">
+      <configuration name="Feature: Practical1" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50939596" side_tool="true" weight="0.48600882" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3295302" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.490604" weight="0.38781574" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12281879" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4026746" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4986577" weight="0.3298969" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <marker date="1613920581998" expanded="true" signature="913:1116" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/karate-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testRunner/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical2.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <marker date="1613920581998" expanded="true" signature="913:1116" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/karate-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical2.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testRunner/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <marker date="1613920581998" expanded="true" signature="913:1116" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/karate-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testRunner/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical2.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <marker date="1613920581998" expanded="true" signature="913:1116" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/karate-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testRunner/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <marker date="1613920581998" expanded="true" signature="913:1116" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/karate-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testRunner/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <marker date="1613920581998" expanded="true" signature="913:1116" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/karate-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testRunner/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-end-line="4" />
+          <folding>
+            <marker date="1613920581998" expanded="true" signature="913:1116" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/karate-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/karate-config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intuit/karate/karate-junit5/0.9.6/karate-junit5-0.9.6.jar!/com/intuit/karate/junit5/Karate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intuit/karate/karate-core/0.9.5/karate-core-0.9.5.jar!/com/intuit/karate/StepActions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/intuit/karate/karate-core/0.9.5/karate-core-0.9.5.jar!/com/intuit/karate/core/FeatureParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+          <folding>
+            <marker date="1613920581998" expanded="true" signature="913:1116" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical3.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical4.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/g.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="119" column="14" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="145" column="1" selection-end-line="145" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/karate-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testRunner/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/f.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68731">
+          <caret line="4043" column="1" selection-start-line="4043" selection-start-column="1" selection-end-line="4043" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4386">
+          <caret line="258" column="8" selection-start-line="258" selection-start-column="8" selection-end-line="258" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Practical2.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

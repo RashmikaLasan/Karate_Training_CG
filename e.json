@@ -1,0 +1,145 @@
+{
+  "keyControls": {
+    "cmp": "CT",
+    "div": "CT_LON",
+    "brand": "CT_OL",
+    "channel": "U",
+    "cliId": 10020,
+    "cliGrp": "Direct",
+    "cliType": "DIRECT_CLIENT",
+    "bkgType": "STD",
+    "srcCountry": "GB",
+    "cur": "GBP",
+    "userId": 8778,
+    "username": "codegen"
+  },
+  "payload": [
+    {
+      "key": "MR#CMHHL#TBA#1",
+      "no": 1,
+      "lead": true,
+      "driver": false,
+      "activeForBooking": true,
+      "refuseInsurance": false,
+      "profile": {
+        "title": "Mr",
+        "firstName": "CMHHL",
+        "middleName": "",
+        "lastName": "TBA",
+        "type": "A",
+        "subType": "A",
+        "dob": "2021-03-02",
+        "dobUnknown": true,
+        "age": 0,
+        "gender": "M",
+        "vip": false,
+        "smoker": false,
+        "frequentFlyerNumbers": [],
+        "addresses": [
+          {
+            "no": 0,
+            "street": "MEL",
+            "city": "MEL",
+            "county": "",
+            "postalCode": "",
+            "country": "AU",
+            "main": true,
+            "houseNo": "travelnow",
+            "category": 0,
+            "external": false,
+            "contacts": [
+              {
+                "contactNo": 1,
+                "contactType": "Telephone",
+                "value": "+612154678956",
+                "main": true,
+                "preferred": true
+              },
+              {
+                "contactNo": 2,
+                "contactType": "E-mail",
+                "value": "test@test.com",
+                "main": false,
+                "preferred": false
+              }
+            ]
+          }
+        ],
+        "memberships": [],
+        "dummy": true
+      },
+      "infantSeatRequired": false,
+      "reference": {
+        "key": "MR#CMHHL#TBA#1",
+        "externalRefs": []
+      },
+      "primaryPpForBooking": false,
+      "endorsedPpForBooking": false,
+      "endorsedPassengerNo": 0,
+      "allocatedForBooking": false
+    },
+    {
+      "key": "MR#MFYJI#TBA#2",
+      "no": 2,
+      "lead": false,
+      "driver": false,
+      "activeForBooking": true,
+      "refuseInsurance": false,
+      "profile": {
+        "title": "Mr",
+        "firstName": "MFYJI",
+        "middleName": "",
+        "lastName": "TBA",
+        "type": "A",
+        "subType": "A",
+        "dob": "2021-03-02",
+        "dobUnknown": true,
+        "age": 0,
+        "gender": "M",
+        "vip": false,
+        "smoker": false,
+        "frequentFlyerNumbers": [],
+        "addresses": [{
+          "no": 0,
+          "street": "MEL",
+          "city": "MEL",
+          "county": "",
+          "postalCode": "",
+          "country": "AU",
+          "main": true,
+          "houseNo": "travelnow",
+          "category": 0,
+          "external": false,
+          "contacts": [
+            {
+              "contactNo": 1,
+              "contactType": "Telephone",
+              "value": "+612154678956",
+              "main": true,
+              "preferred": true
+            },
+            {
+              "contactNo": 2,
+              "contactType": "E-mail",
+              "value": "test@test.com",
+              "main": false,
+              "preferred": false
+            }
+          ]
+        }
+        ],
+        "memberships": [],
+        "dummy": true
+      },
+      "infantSeatRequired": false,
+      "reference": {
+        "key": "MR#MFYJI#TBA#2",
+        "externalRefs": []
+      },
+      "primaryPpForBooking": false,
+      "endorsedPpForBooking": false,
+      "endorsedPassengerNo": 0,
+      "allocatedForBooking": false
+    }
+  ]
+}

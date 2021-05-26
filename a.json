@@ -1,0 +1,499 @@
+{
+  "keyControls": {
+    "cmp": "CT",
+    "div": "CT_LON",
+    "brand": "CT_OL",
+    "channel": "U",
+    "cliId": 10020,
+    "cliGrp": "Direct",
+    "cliType": "DIRECT_CLIENT",
+    "bkgType": "STD",
+    "srcCountry": "GB",
+    "cur": "GBP",
+    "userId": 8778,
+    "username": "codegen"
+  },
+  "payload": {
+      "productCode": "GEN",
+      "productKey": "GEN~1",
+      "selected": false,
+      "attributes": [
+        {
+          "name": "isBlockedResult",
+          "value": "NO"
+        },
+        {
+          "name": null,
+          "value": "CT|CT_LON|CT_OL|U|Direct|GB|GBP|2_0_0|CMP|[2_0_0]|1_19/07/2021_LON_GEN_-1"
+        }
+      ],
+      "summary": {
+        "availabilityStatus": "AVAILABLE",
+        "productStatus": "BOOKING",
+        "productType": "GEN",
+        "name": "Private London tour 4 Hours",
+        "highlight": "Hiking & Camping",
+        "primaryAttribute": "Outdoor Activities",
+        "serviceStartDate": "2021-07-19",
+        "serviceEndDate": "2021-07-19",
+        "duration": 0,
+        "durationType": "NA",
+        "durationDescription": "4 to 10 hours",
+        "travelDates": {
+          "startDate": "2021-07-19",
+          "endDate": "2021-07-19"
+        },
+        "travelDuration": {
+          "duration": 0,
+          "durationType": "NA"
+        },
+        "recommended": false,
+        "specialOffer": false,
+        "totalPrice": 203.26,
+        "discount": 0.00,
+        "priceBeforeDiscount": 203.26,
+        "vipBooking": false
+      },
+      "detail": {
+        "elementGrp": "VT9",
+        "elementGrpName": "Outdoor Activities",
+        "freeTextConditions": [],
+        "destination": {
+          "cityCode": "LON",
+          "cityName": "London",
+          "countryCode": "GB",
+          "countryName": "United Kingdom",
+          "stateCode": "LON",
+          "stateName": "London Test"
+        },
+        "additionalInfo": {
+          "nonRefundable": false,
+          "nonAmendable": false,
+          "provisional": false,
+          "preference": 0
+        }
+      },
+      "metaInfo": {
+        "result": {
+          "searchResultIndex": "0:1",
+          "holidayTemplateId": 0,
+          "compositionId": 0,
+          "itineraryItemNo": -1,
+          "cfScore": 0.00,
+          "gridNo": 0,
+          "gridType": 0,
+          "itineraryNo": 0,
+          "itineraryOrder": 0,
+          "holidayId": 0,
+          "pkgId": 0,
+          "resultNo": 1,
+          "swapItemNo": 0,
+          "promo": false,
+          "requestedRegion": "XXX",
+          "optionalItineraryItem": false
+        }
+      },
+      "source": {
+        "supplier": {
+          "id": 130526,
+          "code": "VT111661P2",
+          "name": "Private driver to visit London, Windsor, Bath, Stonehenge or Oxford"
+        },
+        "liteSupplier": {
+          "code": "VT111661P2",
+          "name": "Private driver to visit London, Windsor, Bath, Stonehenge or Oxford"
+        },
+        "serviceProviders": [
+          {
+            "type": "EXTERNAL_SOURCE_CONTENT",
+            "supplier": {}
+          }
+        ],
+        "internal": {
+          "id": 0,
+          "version": 0
+        },
+        "external": {
+          "id": "3",
+          "ref": "Viator"
+        }
+      },
+      "choices": [
+        {
+          "categoryCode": "TG1",
+          "categoryName": "Private London tour 4 Hours",
+          "categoryDescription": "Duration: 4 hours<br/>Pickup included",
+          "productTypeCode": "VT35",
+          "productTypeName": "Hiking & Camping",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 0.00,
+            "priceWithTax": 0.00,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~TG1~VT35~VT111661P2~111661P2",
+          "cancellationRules": [
+            {
+              "ruleNo": 0,
+              "days": 0,
+              "fromDate": "2021-07-16",
+              "toDate": null,
+              "charge": 170.14,
+              "chargeType": null
+            }
+          ],
+          "attributes": [
+            {
+              "name": "cancellation_policy",
+              "value": "If cancelled/amended between Jul 16, 2021 and Jul 19, 2021 there will be a 170.14 null charge."
+            }
+          ]
+        },
+        {
+          "categoryCode": "TG2",
+          "categoryName": "Visit to Windsor and Oxford",
+          "categoryDescription": "Duration: 10 hours: Driver available to visit Windsor and Oxford, total duration of 10 hours.\n\nTickets or attractions fees not included.<br/>Pickup included",
+          "productTypeCode": "VT35",
+          "productTypeName": "Hiking & Camping",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 230.36,
+            "priceWithTax": 230.36,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~TG2~VT35~VT111661P2~111661P2",
+          "cancellationRules": [
+            {
+              "ruleNo": 0,
+              "days": 0,
+              "fromDate": "2021-07-16",
+              "toDate": null,
+              "charge": 362.95,
+              "chargeType": null
+            }
+          ],
+          "attributes": [
+            {
+              "name": "cancellation_policy",
+              "value": "If cancelled/amended between Jul 16, 2021 and Jul 19, 2021 there will be a 362.95 null charge."
+            }
+          ]
+        },
+        {
+          "categoryCode": "TG3",
+          "categoryName": "Visit Windsor and Stonehenge",
+          "categoryDescription": "Private driver to visit Windsor Castle and Stonehenge, the driver will be at your disposal for 10 hours, we also can accommodate and especial request or preferences.<br/>Pickup included",
+          "productTypeCode": "VT35",
+          "productTypeName": "Hiking & Camping",
+          "units": 0,
+          "availStatus": "AVAILABLE",
+          "rate": {
+            "discount": 0.00,
+            "price": 230.36,
+            "priceWithTax": 230.36,
+            "tax": 0.00,
+            "commission": 0.00,
+            "commissionPercentage": 0.00,
+            "priceWithoutCommission": 0.00,
+            "itemSuppliemntPrice": 0.00,
+            "amendmentCharge": 0.00,
+            "cancellationCharge": 0.00,
+            "cnxPrice": 0.00,
+            "sellingToBaseExchangeRate": 0.00,
+            "basePrice": 0.00,
+            "manualCommission": false,
+            "itemDiscount": 0.00,
+            "totalItemFeeBase": 0.00,
+            "totalItemFee": 0.00,
+            "totalTaxBase": 0.00,
+            "totalTax": 0.00,
+            "totalNettBookingTax": 0.00
+          },
+          "discounts": [],
+          "supplements": [],
+          "choiceKey": "GEN~0~TG3~VT35~VT111661P2~111661P2",
+          "cancellationRules": [
+            {
+              "ruleNo": 0,
+              "days": 0,
+              "fromDate": "2021-07-16",
+              "toDate": null,
+              "charge": 362.95,
+              "chargeType": null
+            }
+          ],
+          "attributes": [
+            {
+              "name": "cancellation_policy",
+              "value": "If cancelled/amended between Jul 16, 2021 and Jul 19, 2021 there will be a 362.95 null charge."
+            }
+          ]
+        }
+      ],
+      "rate": {
+        "discount": 0.00,
+        "price": 203.26,
+        "priceWithTax": 203.26,
+        "tax": 0.00,
+        "commission": 0.00,
+        "commissionPercentage": 0.00,
+        "travellerRateBreakdown": [
+          {
+            "travellerNo": 1,
+            "servicePaxType": "A",
+            "price": 101.63,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 85.07
+          },
+          {
+            "travellerNo": 2,
+            "servicePaxType": "A",
+            "price": 101.63,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 85.07
+          }
+        ],
+        "priceWithoutCommission": 0.00,
+        "itemSuppliemntPrice": 0.00,
+        "amendmentCharge": 0.00,
+        "cancellationCharge": 0.00,
+        "cnxPrice": 0.00,
+        "sellingToBaseExchangeRate": 0.00,
+        "basePrice": 0.00,
+        "manualCommission": false,
+        "itemDiscount": 0.00,
+        "totalItemFeeBase": 0.00,
+        "totalItemFee": 0.00,
+        "totalTaxBase": 0.00,
+        "totalTax": 0.00,
+        "totalNettBookingTax": 0.00
+      },
+      "travellerInfo": {
+        "adult": 2,
+        "child": 0,
+        "infant": 0,
+        "travellers": [
+          {
+            "no": 1,
+            "lead": true,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "QWGUJ",
+              "lastName": "TBA",
+              "type": "A",
+              "dobUnknown": true,
+              "age": 30,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 2,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "RNFPJ",
+              "lastName": "TBA",
+              "type": "A",
+              "dobUnknown": true,
+              "age": 30,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          }
+        ]
+      },
+      "content": {
+        "image": "VT9.jpg",
+        "description": "",
+        "location": "/tc_images/GEN/",
+        "contentItems": []
+      },
+      "additionalContents": [],
+      "notes": [],
+      "supplements": [],
+      "discounts": [],
+      "supplierInfo": {
+        "supplierId": 130526,
+        "name": "Private driver to visit London, Windsor, Bath, Stonehenge or Oxford"
+      },
+      "multiSource": false,
+      "category": {
+        "categoryCode": "TG1",
+        "categoryName": "Private London tour 4 Hours",
+        "categoryDescription": "Duration: 4 hours<br/>Pickup included",
+        "productTypeCode": "VT35",
+        "productTypeName": "Hiking & Camping",
+        "units": 1,
+        "availStatus": "AVAILABLE",
+        "rate": {
+          "discount": 0.00,
+          "price": 203.26,
+          "priceWithTax": 203.26,
+          "tax": 0.00,
+          "commission": 0.00,
+          "commissionPercentage": 0.00,
+          "priceWithoutCommission": 0.00,
+          "itemSuppliemntPrice": 0.00,
+          "amendmentCharge": 0.00,
+          "cancellationCharge": 0.00,
+          "cnxPrice": 0.00,
+          "sellingToBaseExchangeRate": 0.00,
+          "basePrice": 0.00,
+          "manualCommission": false,
+          "itemDiscount": 0.00,
+          "totalItemFeeBase": 0.00,
+          "totalItemFee": 0.00,
+          "totalTaxBase": 0.00,
+          "totalTax": 0.00,
+          "totalNettBookingTax": 0.00
+        },
+        "discounts": [],
+        "supplements": [],
+        "choiceKey": "GEN~0~TG1~VT35~VT111661P2~111661P2",
+        "cancellationRules": [
+          {
+            "ruleNo": 0,
+            "days": 0,
+            "fromDate": "2021-07-16",
+            "toDate": null,
+            "charge": 170.14,
+            "chargeType": null
+          }
+        ],
+        "attributes": [
+          {
+            "name": "cancellation_policy",
+            "value": "If cancelled/amended between Jul 16, 2021 and Jul 19, 2021 there will be a 170.14 null charge."
+          }
+        ]
+      },
+      "additionalRequirements": [
+        {
+          "type": "PICK_UP",
+          "subtype": "LIST",
+          "code": "PICK_UP",
+          "mandatory": true,
+          "messageInfo": {
+            "title": "Hotel Pickup",
+            "subTitle": "(e.g. Comfort Inn)",
+            "message": "Select your hotel for pickup."
+          },
+          "possibleValues": [
+            {
+              "code": "local",
+              "title": "I live locally / I'm staying with friends, relatives"
+            },
+            {
+              "code": "notBooked",
+              "title": "My hotel is not yet booked"
+            },
+            {
+              "code": "notListed",
+              "title": "My hotel is not listed"
+            },
+            {
+              "code": "TRIAPI126260",
+              "title": "Park Plaza Westminster Bridge",
+              "description": "LON"
+            }
+          ]
+        },
+        {
+          "type": "LANG",
+          "subtype": "LIST",
+          "code": "LANG",
+          "mandatory": true,
+          "messageInfo": {
+            "subTitle": ""
+          },
+          "possibleValues": [
+            {
+              "code": "en/SERVICE_GUIDE",
+              "title": "English - Guide"
+            },
+            {
+              "code": "es/SERVICE_GUIDE",
+              "title": "Spanish - Guide"
+            },
+            {
+              "code": "pt/SERVICE_GUIDE",
+              "title": "Portuguese - Guide"
+            }
+          ]
+        },
+        {
+          "type": "SP_NOTE",
+          "subtype": "TEXT_AREA",
+          "code": "special_note#0",
+          "mandatory": false,
+          "messageInfo": {
+            "title": "Special Requirements",
+            "subTitle": ""
+          }
+        }
+      ]
+    }
+}

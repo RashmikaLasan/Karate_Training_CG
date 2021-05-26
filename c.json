@@ -1,0 +1,349 @@
+{
+  "keyControls": {
+    "cmp": "CT",
+    "div": "CT_LON",
+    "brand": "CT_OL",
+    "channel": "U",
+    "cliId": 10020,
+    "cliGrp": "Direct",
+    "cliType": "DIRECT_CLIENT",
+    "bkgType": "STD",
+    "srcCountry": "GB",
+    "cur": "GBP",
+    "userId": 8778,
+    "username": "codegen"
+  },
+  "payload":{
+    "productCode": "GEN",
+    "productKey": "GEN~1",
+    "selected": false,
+    "attributes": [
+      {
+        "name": "isBlockedResult",
+        "value": "NO"
+      },
+      {
+        "name": null,
+        "value": "CT|CT_LON|CT_OL|U|Direct|GB|GBP|2_0_0|CMP|[2_0_0]|1_19/07/2021_DXB_GEN_-1"
+      }
+    ],
+    "summary": {
+      "availabilityStatus": "AVAILABLE",
+      "productStatus": "BOOKING",
+      "productType": "GEN",
+      "name": "14:30",
+      "highlight": "Day Trips",
+      "primaryAttribute": "Day Trips & Excursions",
+      "serviceStartDate": "2021-07-19",
+      "serviceEndDate": "2021-07-19",
+      "duration": 0,
+      "durationType": "NA",
+      "durationDescription": "7 hours",
+      "travelDates": {
+        "startDate": "2021-07-19",
+        "endDate": "2021-07-19"
+      },
+      "travelDuration": {
+        "duration": 0,
+        "durationType": "NA"
+      },
+      "recommended": false,
+      "specialOffer": false,
+      "totalPrice": 46.64,
+      "discount": 0.00,
+      "priceBeforeDiscount": 46.64,
+      "vipBooking": false
+    },
+    "detail": {
+      "elementGrp": "VT5",
+      "elementGrpName": "Day Trips & Excursions",
+      "freeTextConditions": [],
+      "destination": {
+        "cityCode": "DXB",
+        "cityName": "Dubai",
+        "countryCode": "AE",
+        "countryName": "United Arab Emirates",
+        "stateCode": "",
+        "stateName": ""
+      },
+      "additionalInfo": {
+        "nonRefundable": false,
+        "nonAmendable": false,
+        "provisional": false,
+        "preference": 0
+      }
+    },
+    "metaInfo": {
+      "result": {
+        "searchResultIndex": "0:1",
+        "holidayTemplateId": 0,
+        "compositionId": 0,
+        "itineraryItemNo": -1,
+        "cfScore": 0.00,
+        "gridNo": 0,
+        "gridType": 0,
+        "itineraryNo": 0,
+        "itineraryOrder": 0,
+        "holidayId": 0,
+        "pkgId": 0,
+        "resultNo": 1,
+        "swapItemNo": 0,
+        "promo": false,
+        "requestedRegion": "XXX",
+        "optionalItineraryItem": false
+      }
+    },
+    "source": {
+      "supplier": {
+        "id": 123170,
+        "code": "VT101623P8",
+        "name": "Arabian Desert Experience In Dubai"
+      },
+      "liteSupplier": {
+        "code": "VT101623P8",
+        "name": "Arabian Desert Experience In Dubai"
+      },
+      "serviceProviders": [
+        {
+          "type": "EXTERNAL_SOURCE_CONTENT",
+          "supplier": {}
+        }
+      ],
+      "internal": {
+        "id": 0,
+        "version": 0
+      },
+      "external": {
+        "id": "3",
+        "ref": "Viator"
+      }
+    },
+    "rate": {
+      "discount": 0.00,
+      "price": 46.64,
+      "priceWithTax": 46.64,
+      "tax": 0.00,
+      "commission": 0.00,
+      "commissionPercentage": 0.00,
+      "travellerRateBreakdown": [
+        {
+          "travellerNo": 1,
+          "servicePaxType": "A",
+          "price": 23.32,
+          "tax": 0.00,
+          "priceWithTax": 0.00,
+          "cost": 19.49
+        },
+        {
+          "travellerNo": 2,
+          "servicePaxType": "A",
+          "price": 23.32,
+          "tax": 0.00,
+          "priceWithTax": 0.00,
+          "cost": 19.49
+        }
+      ],
+      "priceWithoutCommission": 0.00,
+      "itemSuppliemntPrice": 0.00,
+      "amendmentCharge": 0.00,
+      "cancellationCharge": 0.00,
+      "cnxPrice": 0.00,
+      "sellingToBaseExchangeRate": 0.00,
+      "basePrice": 0.00,
+      "manualCommission": false,
+      "itemDiscount": 0.00,
+      "totalItemFeeBase": 0.00,
+      "totalItemFee": 0.00,
+      "totalTaxBase": 0.00,
+      "totalTax": 0.00,
+      "totalNettBookingTax": 0.00
+    },
+    "travellerInfo": {
+      "adult": 2,
+      "child": 0,
+      "infant": 0,
+      "travellers": [
+        {
+          "no": 1,
+          "lead": true,
+          "driver": false,
+          "activeForBooking": true,
+          "refuseInsurance": false,
+          "profile": {
+            "title": "Mr",
+            "firstName": "DIZTZ",
+            "lastName": "TBA",
+            "type": "A",
+            "dobUnknown": true,
+            "age": 30,
+            "gender": "M",
+            "vip": false,
+            "smoker": false,
+            "dummy": true
+          },
+          "infantSeatRequired": false,
+          "primaryPpForBooking": false,
+          "endorsedPpForBooking": false,
+          "endorsedPassengerNo": 0,
+          "allocatedForBooking": false
+        },
+        {
+          "no": 2,
+          "lead": false,
+          "driver": false,
+          "activeForBooking": true,
+          "refuseInsurance": false,
+          "profile": {
+            "title": "Mr",
+            "firstName": "OXBOG",
+            "lastName": "TBA",
+            "type": "A",
+            "dobUnknown": true,
+            "age": 30,
+            "gender": "M",
+            "vip": false,
+            "smoker": false,
+            "dummy": true
+          },
+          "infantSeatRequired": false,
+          "primaryPpForBooking": false,
+          "endorsedPpForBooking": false,
+          "endorsedPassengerNo": 0,
+          "allocatedForBooking": false
+        }
+      ]
+    },
+    "content": {
+      "image": "VT5.jpg",
+      "description": "",
+      "location": "/tc_images/GEN/",
+      "contentItems": []
+    },
+    "additionalContents": [],
+    "notes": [],
+    "supplements": [],
+    "discounts": [],
+    "supplierInfo": {
+      "supplierId": 123170,
+      "name": "Arabian Desert Experience In Dubai"
+    },
+    "multiSource": false,
+    "category": {
+      "categoryCode": "DEFAULT~14:30",
+      "categoryName": "14:30",
+      "productTypeCode": "VT15",
+      "productTypeName": "Day Trips",
+      "units": 1,
+      "availStatus": "AVAILABLE",
+      "rate": {
+        "discount": 0.00,
+        "price": 46.64,
+        "priceWithTax": 46.64,
+        "tax": 0.00,
+        "commission": 0.00,
+        "commissionPercentage": 0.00,
+        "priceWithoutCommission": 0.00,
+        "itemSuppliemntPrice": 0.00,
+        "amendmentCharge": 0.00,
+        "cancellationCharge": 0.00,
+        "cnxPrice": 0.00,
+        "sellingToBaseExchangeRate": 0.00,
+        "basePrice": 0.00,
+        "manualCommission": false,
+        "itemDiscount": 0.00,
+        "totalItemFeeBase": 0.00,
+        "totalItemFee": 0.00,
+        "totalTaxBase": 0.00,
+        "totalTax": 0.00,
+        "totalNettBookingTax": 0.00
+      },
+      "discounts": [],
+      "supplements": [],
+      "choiceKey": "GEN~0~DEFAULT__14:30~VT15~VT101623P8~101623P8",
+      "cancellationRules": [
+        {
+          "ruleNo": 0,
+          "days": 0,
+          "fromDate": "2021-07-16",
+          "toDate": null,
+          "charge": 38.98,
+          "chargeType": null
+        }
+      ],
+      "attributes": [
+        {
+          "name": "cancellation_policy",
+          "value": "If cancelled/amended between Jul 16, 2021 and Jul 19, 2021 there will be a 38.98 GBP charge."
+        }
+      ]
+    },
+    "additionalRequirements": [
+      {
+        "type": "PICK_UP",
+        "subtype": "LIST",
+        "code": "PICK_UP",
+        "mandatory": true,
+        "messageInfo": {
+          "title": "Hotel Pickup",
+          "subTitle": "(e.g. Comfort Inn)",
+          "message": "Select your hotel for pickup."
+        },
+        "possibleValues": [
+          {
+            "code": "local",
+            "title": "I live locally / I'm staying with friends, relatives"
+          },
+          {
+            "code": "notBooked",
+            "title": "My hotel is not yet booked"
+          },
+          {
+            "code": "notListed",
+            "title": "My hotel is not listed"
+          },
+          {
+            "code": "2949597",
+            "title": "Jumeirah Zabeel Saray",
+            "description": "Dubai"
+          },
+          {
+            "code": "1301584",
+            "title": "Le Royal Meridien Beach Resort & Spa",
+            "description": "Dubai"
+          }
+        ],
+        "answer": "notBooked"
+      },
+      {
+        "type": "LANG",
+        "subtype": "LIST",
+        "code": "LANG",
+        "mandatory": true,
+        "messageInfo": {
+          "subTitle": ""
+        },
+        "possibleValues": [
+          {
+            "code": "ar/SERVICE_GUIDE",
+            "title": "Arabic - Guide"
+          },
+          {
+            "code": "en/SERVICE_GUIDE",
+            "title": "English - Guide"
+          }
+        ],
+        "answer": "en/SERVICE_GUIDE"
+      },
+      {
+        "type": "SP_NOTE",
+        "subtype": "TEXT_AREA",
+        "code": "special_note#0",
+        "mandatory": false,
+        "messageInfo": {
+          "title": "Special Requirements",
+          "subTitle": ""
+        }
+      }
+    ]
+  }
+}
